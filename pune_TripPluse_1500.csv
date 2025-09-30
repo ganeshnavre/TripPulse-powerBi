@@ -1,0 +1,1501 @@
+ride_id,pickup_location,drop_location,distance_km,expected_time_min,actual_time_min,weather,traffic_level,vehicle_type,delay_minutes,delayed
+1,Hadapsar,Pimpri,10.44,31,40,Clear,High,Auto,9,1
+2,Kothrud,Wakad,10.61,33,44,Rainy,Medium,Bike,11,1
+3,Koregaon Park,Pimpri,13.32,39,39,Clear,Low,Auto,0,0
+4,Shivajinagar,Swargate,10.28,28,39,Rainy,High,Auto,11,1
+5,Viman Nagar,Wakad,20.63,60,70,Foggy,Medium,Auto,10,1
+6,Hadapsar,Magarpatta,5.26,15,20,Clear,High,Bike,5,0
+7,Koregaon Park,Camp,9.7,29,31,Foggy,Low,Auto,2,0
+8,Hinjewadi,Pimpri,7.9,23,31,Foggy,High,Auto,8,1
+9,Baner,Camp,7.88,22,29,Cloudy,High,Auto,7,1
+10,Hinjewadi,Swargate,13.83,45,57,Foggy,High,Bike,12,1
+11,Hinjewadi,Pimpri,11.64,34,34,Cloudy,Low,Bike,0,0
+12,Baner,Wakad,4.02,12,15,Clear,High,Auto,3,0
+13,Koregaon Park,Kharadi,5.96,17,23,Clear,High,Auto,6,1
+14,Viman Nagar,Kharadi,20.18,68,95,Rainy,High,Bike,27,1
+15,Koregaon Park,FC Road,14.09,40,56,Rainy,High,Auto,16,1
+16,Shivajinagar,Wakad,20.71,54,71,Cloudy,High,Auto,17,1
+17,Koregaon Park,Camp,7.78,21,28,Cloudy,High,Auto,7,1
+18,Kothrud,Camp,17.3,59,79,Cloudy,High,Bike,20,1
+19,Koregaon Park,Wakad,15.82,54,78,Foggy,High,Auto,24,1
+20,Hinjewadi,Kharadi,5.34,15,15,Clear,Low,Bike,0,0
+21,Shivajinagar,Pimpri,20.28,70,95,Cloudy,High,Bike,25,1
+22,Hadapsar,Pimpri,9.49,30,30,Cloudy,Low,Auto,0,0
+23,Hinjewadi,Kharadi,22.1,71,78,Foggy,Low,Bike,7,1
+24,Baner,Pimpri,18.31,58,63,Foggy,Low,Auto,5,0
+25,Baner,Camp,9.88,30,30,Cloudy,Low,Bike,0,0
+26,Koregaon Park,Pimpri,20.18,68,68,Cloudy,Low,Bike,0,0
+27,Baner,Camp,24.21,67,67,Clear,Low,Bike,0,0
+28,Kothrud,Camp,14.3,41,43,Cloudy,Medium,Auto,2,0
+29,Koregaon Park,Pimpri,8.61,24,32,Rainy,High,Bike,8,1
+30,Hinjewadi,Pimpri,23.51,73,98,Cloudy,High,Auto,25,1
+31,Koregaon Park,FC Road,4.6,14,21,Rainy,High,Bike,7,1
+32,Kothrud,Wakad,14.95,43,56,Rainy,Medium,Bike,13,1
+33,Shivajinagar,Swargate,23.91,74,85,Clear,Medium,Bike,11,1
+34,Viman Nagar,Swargate,22.9,71,105,Rainy,High,Bike,34,1
+35,Baner,Magarpatta,11.49,34,38,Clear,Medium,Auto,4,0
+36,Koregaon Park,Wakad,13.71,38,59,Rainy,High,Auto,21,1
+37,Kothrud,Pimpri,14.84,37,47,Rainy,Low,Bike,10,1
+38,Viman Nagar,Pimpri,5.29,16,22,Foggy,High,Bike,6,1
+39,Viman Nagar,Camp,10.3,26,31,Rainy,Low,Auto,5,0
+40,Koregaon Park,Pimpri,8.01,22,25,Foggy,Medium,Auto,3,0
+41,Hadapsar,Magarpatta,14.77,46,60,Clear,High,Bike,14,1
+42,Hinjewadi,FC Road,23.42,61,74,Cloudy,High,Bike,13,1
+43,Viman Nagar,Wakad,11.69,36,44,Rainy,Medium,Bike,8,1
+44,Baner,Pimpri,15.01,51,51,Cloudy,Low,Auto,0,0
+45,Hinjewadi,Kharadi,22.24,58,58,Clear,Low,Auto,0,0
+46,Koregaon Park,Kharadi,23.83,66,82,Cloudy,High,Bike,16,1
+47,Hadapsar,Pimpri,14.28,37,37,Cloudy,Low,Bike,0,0
+48,Hinjewadi,Swargate,17.76,54,58,Foggy,Low,Bike,4,0
+49,Hinjewadi,FC Road,5.16,16,17,Cloudy,Medium,Auto,1,0
+50,Hadapsar,Swargate,5.2,16,16,Cloudy,Low,Auto,0,0
+51,Viman Nagar,FC Road,16.56,46,75,Rainy,High,Auto,29,1
+52,Kothrud,Magarpatta,9.89,32,45,Foggy,High,Auto,13,1
+53,Hadapsar,FC Road,22.31,66,74,Cloudy,Medium,Auto,8,1
+54,Kothrud,Camp,16.35,54,67,Rainy,Low,Auto,13,1
+55,Hadapsar,Magarpatta,19.0,64,85,Clear,High,Auto,21,1
+56,Kothrud,Magarpatta,15.14,46,60,Foggy,High,Bike,14,1
+57,Baner,Kharadi,19.13,53,58,Clear,Medium,Auto,5,0
+58,Hinjewadi,Camp,8.26,28,39,Rainy,High,Bike,11,1
+59,Koregaon Park,Camp,22.19,58,74,Foggy,High,Auto,16,1
+60,Kothrud,Magarpatta,8.82,24,36,Rainy,High,Auto,12,1
+61,Hinjewadi,Magarpatta,24.57,69,89,Cloudy,High,Auto,20,1
+62,Koregaon Park,Swargate,11.29,32,39,Clear,High,Auto,7,1
+63,Kothrud,Kharadi,11.93,39,48,Foggy,Medium,Auto,9,1
+64,Kothrud,Wakad,6.64,17,20,Cloudy,High,Bike,3,0
+65,Kothrud,FC Road,16.24,53,84,Rainy,High,Auto,31,1
+66,Viman Nagar,Camp,13.53,36,38,Foggy,Low,Bike,2,0
+67,Kothrud,Kharadi,16.03,42,48,Clear,High,Bike,6,1
+68,Shivajinagar,Swargate,14.37,41,56,Clear,High,Auto,15,1
+69,Kothrud,Wakad,16.34,48,66,Rainy,Medium,Bike,18,1
+70,Baner,Kharadi,21.05,56,74,Cloudy,High,Bike,18,1
+71,Shivajinagar,Wakad,16.12,41,46,Foggy,Medium,Bike,5,0
+72,Baner,Kharadi,18.06,60,76,Clear,High,Bike,16,1
+73,Koregaon Park,Kharadi,3.86,12,15,Clear,High,Bike,3,0
+74,Kothrud,Kharadi,14.86,37,47,Foggy,High,Auto,10,1
+75,Koregaon Park,Wakad,8.05,26,28,Cloudy,Medium,Bike,2,0
+76,Shivajinagar,Wakad,19.85,67,67,Cloudy,Low,Auto,0,0
+77,Shivajinagar,Swargate,3.12,10,10,Clear,Low,Bike,0,0
+78,Viman Nagar,Camp,7.52,24,25,Cloudy,Medium,Bike,1,0
+79,Hadapsar,Kharadi,8.58,28,33,Cloudy,Medium,Auto,5,0
+80,Viman Nagar,Pimpri,7.48,22,29,Foggy,High,Bike,7,1
+81,Shivajinagar,FC Road,15.71,51,68,Rainy,Medium,Bike,17,1
+82,Hadapsar,Swargate,5.21,15,16,Clear,Medium,Bike,1,0
+83,Hadapsar,Magarpatta,20.7,68,76,Foggy,Medium,Bike,8,1
+84,Hinjewadi,Kharadi,3.83,11,13,Cloudy,Medium,Bike,2,0
+85,Baner,Swargate,17.09,50,50,Cloudy,Low,Bike,0,0
+86,Hinjewadi,Pimpri,16.19,48,56,Rainy,Low,Bike,8,1
+87,Hadapsar,Magarpatta,24.46,63,78,Foggy,Medium,Auto,15,1
+88,Kothrud,Kharadi,3.34,10,10,Cloudy,Low,Auto,0,0
+89,Shivajinagar,Pimpri,9.08,28,31,Foggy,Low,Auto,3,0
+90,Shivajinagar,Swargate,11.96,31,31,Cloudy,Low,Auto,0,0
+91,Hinjewadi,Pimpri,14.29,39,54,Cloudy,High,Auto,15,1
+92,Koregaon Park,Wakad,19.94,64,76,Foggy,Medium,Bike,12,1
+93,Viman Nagar,Camp,20.35,55,78,Rainy,High,Auto,23,1
+94,Koregaon Park,Magarpatta,18.42,50,57,Clear,Medium,Auto,7,1
+95,Baner,FC Road,4.67,16,17,Cloudy,Medium,Auto,1,0
+96,Koregaon Park,FC Road,7.02,22,23,Foggy,Low,Bike,1,0
+97,Kothrud,Pimpri,8.84,24,24,Cloudy,Low,Bike,0,0
+98,Baner,Magarpatta,5.64,14,20,Foggy,High,Bike,6,1
+99,Hinjewadi,Pimpri,13.61,42,45,Cloudy,Medium,Auto,3,0
+100,Baner,Kharadi,9.17,24,35,Rainy,High,Bike,11,1
+101,Koregaon Park,Magarpatta,14.05,40,65,Rainy,High,Auto,25,1
+102,Viman Nagar,FC Road,18.16,45,48,Foggy,Low,Bike,3,0
+103,Koregaon Park,Pimpri,8.71,26,26,Cloudy,Low,Auto,0,0
+104,Koregaon Park,FC Road,11.05,33,35,Foggy,Low,Auto,2,0
+105,Viman Nagar,FC Road,12.92,39,62,Rainy,High,Bike,23,1
+106,Koregaon Park,Wakad,21.84,58,86,Rainy,High,Auto,28,1
+107,Viman Nagar,Swargate,24.9,83,101,Cloudy,High,Auto,18,1
+108,Koregaon Park,Pimpri,15.49,44,59,Rainy,High,Bike,15,1
+109,Baner,Camp,5.12,16,18,Cloudy,Medium,Auto,2,0
+110,Baner,FC Road,10.57,30,40,Rainy,Medium,Bike,10,1
+111,Shivajinagar,Camp,14.23,46,52,Clear,Medium,Auto,6,1
+112,Viman Nagar,Camp,24.05,81,105,Cloudy,High,Auto,24,1
+113,Koregaon Park,Wakad,21.68,55,55,Cloudy,Low,Bike,0,0
+114,Shivajinagar,FC Road,17.37,55,82,Foggy,High,Auto,27,1
+115,Shivajinagar,Camp,15.91,55,71,Rainy,Medium,Bike,16,1
+116,Kothrud,Camp,8.54,27,32,Clear,High,Bike,5,0
+117,Hinjewadi,Magarpatta,4.4,14,18,Clear,High,Bike,4,0
+118,Koregaon Park,Pimpri,24.91,64,101,Rainy,High,Bike,37,1
+119,Shivajinagar,Swargate,8.44,23,32,Rainy,High,Bike,9,1
+120,Hinjewadi,Camp,10.85,37,44,Foggy,Medium,Auto,7,1
+121,Hadapsar,Kharadi,6.89,21,30,Foggy,High,Auto,9,1
+122,Kothrud,Pimpri,4.97,13,14,Cloudy,Medium,Bike,1,0
+123,Hinjewadi,Kharadi,20.94,70,79,Cloudy,Medium,Auto,9,1
+124,Hadapsar,Wakad,23.83,70,77,Foggy,Low,Auto,7,1
+125,Baner,Magarpatta,15.06,40,53,Foggy,High,Auto,13,1
+126,Hadapsar,Wakad,21.23,57,62,Foggy,Low,Bike,5,0
+127,Baner,Kharadi,20.77,66,71,Cloudy,Medium,Auto,5,0
+128,Hinjewadi,Swargate,6.01,15,18,Foggy,Medium,Auto,3,0
+129,Shivajinagar,Magarpatta,6.35,22,25,Rainy,Low,Bike,3,0
+130,Kothrud,Camp,12.65,31,37,Rainy,Low,Bike,6,1
+131,Shivajinagar,Wakad,9.85,32,39,Foggy,Medium,Bike,7,1
+132,Kothrud,Magarpatta,8.86,25,33,Foggy,High,Bike,8,1
+133,Baner,Wakad,21.22,55,84,Rainy,High,Auto,29,1
+134,Hadapsar,Magarpatta,7.38,23,27,Rainy,Low,Auto,4,0
+135,Shivajinagar,FC Road,6.49,20,25,Clear,High,Auto,5,0
+136,Shivajinagar,Swargate,10.93,27,37,Rainy,High,Bike,10,1
+137,Hinjewadi,Swargate,20.48,63,88,Rainy,Medium,Bike,25,1
+138,Hadapsar,Wakad,18.14,48,57,Rainy,Low,Bike,9,1
+139,Hadapsar,Kharadi,10.45,36,44,Clear,High,Bike,8,1
+140,Kothrud,Camp,14.8,38,55,Rainy,Medium,Auto,17,1
+141,Baner,FC Road,20.72,60,60,Clear,Low,Auto,0,0
+142,Shivajinagar,Camp,5.96,20,24,Foggy,Medium,Auto,4,0
+143,Koregaon Park,Swargate,14.96,42,44,Cloudy,Medium,Bike,2,0
+144,Kothrud,Wakad,9.5,26,32,Foggy,Medium,Bike,6,1
+145,Hadapsar,Swargate,22.42,69,95,Rainy,Medium,Auto,26,1
+146,Koregaon Park,Pimpri,11.52,34,45,Rainy,Medium,Auto,11,1
+147,Hinjewadi,Magarpatta,14.51,37,42,Rainy,Low,Bike,5,0
+148,Viman Nagar,Swargate,5.17,15,16,Foggy,Medium,Auto,1,0
+149,Hadapsar,Magarpatta,3.29,11,15,Foggy,High,Bike,4,0
+150,Shivajinagar,Kharadi,19.36,65,73,Clear,Medium,Auto,8,1
+151,Hadapsar,Magarpatta,21.36,55,55,Clear,Low,Bike,0,0
+152,Hadapsar,Swargate,14.7,39,58,Rainy,High,Bike,19,1
+153,Hadapsar,Magarpatta,19.86,61,87,Foggy,High,Auto,26,1
+154,Kothrud,Kharadi,11.83,33,37,Foggy,Low,Auto,4,0
+155,Koregaon Park,FC Road,21.59,62,87,Foggy,High,Auto,25,1
+156,Kothrud,Wakad,19.85,68,75,Cloudy,Medium,Auto,7,1
+157,Viman Nagar,Magarpatta,18.98,66,92,Clear,High,Bike,26,1
+158,Shivajinagar,Magarpatta,9.61,26,30,Clear,Medium,Auto,4,0
+159,Koregaon Park,Kharadi,15.55,47,47,Clear,Low,Auto,0,0
+160,Shivajinagar,Swargate,6.04,17,23,Rainy,High,Bike,6,1
+161,Koregaon Park,Wakad,15.52,42,42,Cloudy,Low,Auto,0,0
+162,Kothrud,Wakad,21.17,67,77,Clear,High,Auto,10,1
+163,Baner,Kharadi,11.39,37,41,Cloudy,Medium,Auto,4,0
+164,Baner,Magarpatta,22.14,60,69,Clear,High,Auto,9,1
+165,Koregaon Park,Magarpatta,10.02,30,39,Rainy,Medium,Bike,9,1
+166,Viman Nagar,Wakad,19.56,60,69,Rainy,Low,Auto,9,1
+167,Viman Nagar,Swargate,5.91,15,18,Clear,High,Auto,3,0
+168,Viman Nagar,Kharadi,12.56,40,43,Foggy,Low,Bike,3,0
+169,Hadapsar,Kharadi,7.31,22,31,Rainy,High,Bike,9,1
+170,Shivajinagar,Camp,23.33,60,78,Foggy,High,Auto,18,1
+171,Shivajinagar,Kharadi,17.42,56,56,Cloudy,Low,Auto,0,0
+172,Koregaon Park,Swargate,12.69,43,48,Rainy,Low,Auto,5,0
+173,Hadapsar,Pimpri,4.89,15,16,Rainy,Low,Auto,1,0
+174,Hadapsar,Pimpri,5.45,16,16,Cloudy,Low,Bike,0,0
+175,Hadapsar,Kharadi,7.66,23,29,Foggy,Medium,Bike,6,1
+176,Viman Nagar,Kharadi,22.93,69,93,Rainy,Medium,Bike,24,1
+177,Koregaon Park,FC Road,4.17,13,13,Clear,Low,Auto,0,0
+178,Hadapsar,FC Road,17.59,60,65,Clear,Medium,Bike,5,0
+179,Hadapsar,Wakad,8.09,23,29,Clear,High,Auto,6,1
+180,Koregaon Park,Kharadi,4.94,13,14,Clear,Medium,Bike,1,0
+181,Koregaon Park,FC Road,10.34,29,29,Clear,Low,Auto,0,0
+182,Hadapsar,FC Road,10.82,30,39,Cloudy,High,Bike,9,1
+183,Viman Nagar,Pimpri,24.79,85,108,Rainy,Medium,Bike,23,1
+184,Kothrud,Magarpatta,19.06,57,76,Rainy,High,Auto,19,1
+185,Shivajinagar,Kharadi,10.24,31,39,Rainy,Low,Bike,8,1
+186,Shivajinagar,Camp,18.51,55,61,Foggy,Low,Bike,6,1
+187,Koregaon Park,Swargate,9.98,30,36,Clear,High,Bike,6,1
+188,Kothrud,Camp,3.65,10,12,Foggy,Medium,Auto,2,0
+189,Hadapsar,Camp,9.02,29,32,Rainy,Low,Bike,3,0
+190,Koregaon Park,Kharadi,8.87,27,33,Rainy,Low,Bike,6,1
+191,Shivajinagar,Magarpatta,18.14,53,68,Foggy,High,Auto,15,1
+192,Viman Nagar,Swargate,6.6,17,20,Clear,Medium,Auto,3,0
+193,Kothrud,Camp,17.77,48,48,Clear,Low,Bike,0,0
+194,Viman Nagar,Pimpri,16.58,52,63,Rainy,Medium,Auto,11,1
+195,Hadapsar,Pimpri,11.37,31,39,Clear,High,Bike,8,1
+196,Baner,Magarpatta,22.31,61,84,Foggy,High,Bike,23,1
+197,Hadapsar,Magarpatta,7.18,21,22,Cloudy,Medium,Auto,1,0
+198,Shivajinagar,Kharadi,23.22,74,78,Foggy,Low,Auto,4,0
+199,Koregaon Park,Magarpatta,6.95,21,30,Rainy,High,Auto,9,1
+200,Kothrud,Wakad,15.99,51,54,Foggy,Low,Bike,3,0
+201,Hadapsar,Camp,22.96,75,88,Clear,High,Bike,13,1
+202,Viman Nagar,Camp,10.98,33,40,Rainy,Medium,Auto,7,1
+203,Kothrud,FC Road,15.44,48,54,Rainy,Low,Bike,6,1
+204,Hadapsar,Magarpatta,12.23,34,36,Cloudy,Medium,Bike,2,0
+205,Kothrud,Swargate,3.08,10,11,Foggy,Low,Auto,1,0
+206,Koregaon Park,Pimpri,3.13,10,11,Rainy,Low,Auto,1,0
+207,Viman Nagar,Magarpatta,16.23,40,46,Cloudy,High,Bike,6,1
+208,Kothrud,Magarpatta,17.37,44,44,Cloudy,Low,Auto,0,0
+209,Hinjewadi,Magarpatta,5.4,18,18,Cloudy,Low,Bike,0,0
+210,Viman Nagar,Camp,15.74,54,54,Cloudy,Low,Auto,0,0
+211,Shivajinagar,Wakad,21.05,68,86,Clear,High,Auto,18,1
+212,Hinjewadi,Camp,21.91,61,77,Rainy,Medium,Bike,16,1
+213,Hadapsar,Camp,14.64,37,48,Cloudy,High,Auto,11,1
+214,Shivajinagar,FC Road,14.56,50,67,Rainy,Medium,Auto,17,1
+215,Viman Nagar,Pimpri,6.96,21,24,Cloudy,High,Bike,3,0
+216,Hinjewadi,Wakad,16.76,43,45,Foggy,Low,Auto,2,0
+217,Shivajinagar,Kharadi,20.73,56,74,Rainy,High,Auto,18,1
+218,Shivajinagar,Kharadi,15.1,49,49,Cloudy,Low,Auto,0,0
+219,Viman Nagar,Camp,15.52,53,67,Rainy,Low,Auto,14,1
+220,Hadapsar,Wakad,23.16,76,104,Rainy,High,Auto,28,1
+221,Baner,Kharadi,22.71,67,76,Clear,Medium,Auto,9,1
+222,Hadapsar,FC Road,15.21,38,44,Cloudy,High,Auto,6,1
+223,Kothrud,FC Road,21.5,61,73,Rainy,Medium,Auto,12,1
+224,Baner,Pimpri,9.78,32,40,Clear,High,Auto,8,1
+225,Viman Nagar,Swargate,11.17,37,46,Rainy,Medium,Auto,9,1
+226,Hinjewadi,Pimpri,7.45,19,26,Clear,High,Auto,7,1
+227,Kothrud,Swargate,10.48,31,36,Cloudy,High,Auto,5,0
+228,Baner,Magarpatta,21.09,72,109,Rainy,High,Bike,37,1
+229,Hadapsar,Pimpri,14.49,36,36,Clear,Low,Auto,0,0
+230,Viman Nagar,Magarpatta,5.27,17,22,Cloudy,High,Bike,5,0
+231,Shivajinagar,Camp,22.63,63,63,Cloudy,Low,Auto,0,0
+232,Koregaon Park,FC Road,20.0,63,75,Rainy,Medium,Bike,12,1
+233,Koregaon Park,Kharadi,14.31,38,40,Cloudy,Medium,Auto,2,0
+234,Hadapsar,Pimpri,9.23,25,25,Cloudy,Low,Auto,0,0
+235,Koregaon Park,Wakad,4.12,10,12,Clear,High,Bike,2,0
+236,Hinjewadi,Wakad,11.62,37,50,Foggy,High,Auto,13,1
+237,Hadapsar,Pimpri,17.76,53,77,Rainy,Medium,Bike,24,1
+238,Viman Nagar,Magarpatta,13.02,41,52,Foggy,High,Auto,11,1
+239,Baner,Kharadi,8.68,24,24,Cloudy,Low,Auto,0,0
+240,Viman Nagar,Wakad,3.67,10,12,Foggy,Medium,Auto,2,0
+241,Shivajinagar,Kharadi,15.64,47,53,Clear,Medium,Auto,6,1
+242,Hinjewadi,Pimpri,9.65,28,39,Foggy,High,Bike,11,1
+243,Viman Nagar,Wakad,4.45,12,16,Foggy,High,Auto,4,0
+244,Hadapsar,Swargate,6.81,21,29,Foggy,High,Bike,8,1
+245,Koregaon Park,Magarpatta,21.08,56,64,Clear,Medium,Bike,8,1
+246,Koregaon Park,Pimpri,21.04,59,71,Clear,High,Bike,12,1
+247,Kothrud,Kharadi,22.87,71,84,Rainy,Low,Bike,13,1
+248,Shivajinagar,Wakad,16.54,48,48,Cloudy,Low,Auto,0,0
+249,Koregaon Park,Pimpri,23.09,64,72,Cloudy,Medium,Bike,8,1
+250,Koregaon Park,Kharadi,11.89,31,36,Clear,Medium,Auto,5,0
+251,Hinjewadi,Magarpatta,18.47,61,71,Clear,Medium,Auto,10,1
+252,Kothrud,Wakad,18.45,53,64,Foggy,Medium,Auto,11,1
+253,Hadapsar,Swargate,13.45,36,38,Cloudy,Medium,Auto,2,0
+254,Baner,Camp,5.76,14,18,Clear,High,Bike,4,0
+255,Viman Nagar,Camp,12.61,44,55,Rainy,Low,Auto,11,1
+256,Baner,Camp,16.3,47,51,Foggy,Low,Auto,4,0
+257,Viman Nagar,Wakad,10.82,29,39,Clear,High,Auto,10,1
+258,Kothrud,Camp,14.04,40,55,Cloudy,High,Bike,15,1
+259,Koregaon Park,Wakad,18.51,48,55,Clear,Medium,Bike,7,1
+260,Koregaon Park,Pimpri,24.64,80,86,Clear,Medium,Bike,6,1
+261,Hadapsar,Camp,17.6,55,75,Cloudy,High,Bike,20,1
+262,Koregaon Park,Pimpri,3.24,9,9,Cloudy,Medium,Auto,0,0
+263,Baner,FC Road,9.36,23,26,Cloudy,High,Auto,3,0
+264,Viman Nagar,Kharadi,6.72,17,19,Clear,Medium,Auto,2,0
+265,Kothrud,Kharadi,4.69,15,18,Rainy,Medium,Auto,3,0
+266,Hadapsar,Magarpatta,16.28,55,75,Rainy,High,Auto,20,1
+267,Baner,Camp,8.2,21,29,Clear,High,Auto,8,1
+268,Kothrud,Kharadi,23.55,62,73,Foggy,Medium,Auto,11,1
+269,Hadapsar,Swargate,7.64,24,27,Clear,Medium,Auto,3,0
+270,Hinjewadi,Magarpatta,6.69,19,23,Foggy,Medium,Bike,4,0
+271,Viman Nagar,FC Road,6.19,20,20,Cloudy,Low,Auto,0,0
+272,Viman Nagar,Camp,9.95,30,30,Clear,Low,Auto,0,0
+273,Baner,Wakad,16.43,51,55,Cloudy,Medium,Auto,4,0
+274,Hinjewadi,FC Road,17.4,50,75,Rainy,High,Bike,25,1
+275,Kothrud,FC Road,15.05,47,47,Clear,Low,Auto,0,0
+276,Hinjewadi,Kharadi,5.29,15,15,Cloudy,Low,Auto,0,0
+277,Kothrud,Magarpatta,3.52,9,13,Rainy,High,Bike,4,0
+278,Baner,Kharadi,5.86,18,26,Rainy,High,Bike,8,1
+279,Viman Nagar,Camp,23.6,74,90,Foggy,Medium,Auto,16,1
+280,Shivajinagar,Pimpri,4.37,12,12,Cloudy,Low,Auto,0,0
+281,Kothrud,Wakad,4.53,15,16,Foggy,Low,Bike,1,0
+282,Hinjewadi,Swargate,14.89,43,57,Clear,High,Auto,14,1
+283,Hinjewadi,Magarpatta,4.6,14,17,Foggy,Medium,Bike,3,0
+284,Hadapsar,Magarpatta,23.52,74,103,Rainy,Medium,Auto,29,1
+285,Koregaon Park,Camp,23.68,70,82,Foggy,Medium,Bike,12,1
+286,Hadapsar,Pimpri,20.16,52,68,Cloudy,High,Auto,16,1
+287,Viman Nagar,Magarpatta,16.91,58,58,Cloudy,Low,Auto,0,0
+288,Hinjewadi,Pimpri,13.11,42,66,Rainy,High,Bike,24,1
+289,Hadapsar,Swargate,9.58,27,27,Cloudy,Low,Auto,0,0
+290,Hinjewadi,Camp,12.64,33,41,Rainy,Low,Bike,8,1
+291,Koregaon Park,Swargate,13.76,35,44,Cloudy,High,Auto,9,1
+292,Baner,Pimpri,12.88,45,45,Cloudy,Low,Bike,0,0
+293,Shivajinagar,Pimpri,18.86,54,60,Foggy,Low,Bike,6,1
+294,Kothrud,Magarpatta,3.81,10,13,Clear,High,Auto,3,0
+295,Koregaon Park,Magarpatta,8.34,26,33,Rainy,Low,Bike,7,1
+296,Baner,Pimpri,5.14,15,17,Clear,High,Bike,2,0
+297,Koregaon Park,Pimpri,16.54,42,47,Foggy,Low,Auto,5,0
+298,Hadapsar,Camp,11.84,31,50,Rainy,High,Auto,19,1
+299,Baner,Magarpatta,16.05,45,45,Cloudy,Low,Bike,0,0
+300,Baner,Wakad,6.7,19,21,Foggy,Low,Bike,2,0
+301,Hinjewadi,Swargate,5.2,17,21,Foggy,High,Bike,4,0
+302,Hinjewadi,Magarpatta,6.95,17,22,Cloudy,High,Auto,5,0
+303,Baner,Pimpri,13.47,35,35,Cloudy,Low,Auto,0,0
+304,Viman Nagar,Swargate,23.64,73,89,Rainy,Low,Auto,16,1
+305,Hinjewadi,Camp,21.18,59,63,Clear,Medium,Bike,4,0
+306,Koregaon Park,Magarpatta,16.62,55,86,Rainy,High,Auto,31,1
+307,Shivajinagar,Magarpatta,7.26,23,30,Foggy,High,Auto,7,1
+308,Hinjewadi,Magarpatta,17.19,47,53,Cloudy,Medium,Auto,6,1
+309,Baner,Wakad,3.95,12,18,Rainy,High,Bike,6,1
+310,Hinjewadi,Magarpatta,22.69,73,87,Cloudy,High,Auto,14,1
+311,Hadapsar,FC Road,8.06,21,21,Clear,Low,Bike,0,0
+312,Hadapsar,Wakad,22.14,63,63,Clear,Low,Auto,0,0
+313,Koregaon Park,Wakad,4.2,12,13,Foggy,Low,Bike,1,0
+314,Kothrud,Wakad,18.84,59,77,Rainy,Medium,Auto,18,1
+315,Hinjewadi,FC Road,6.0,20,24,Foggy,Medium,Bike,4,0
+316,Shivajinagar,Kharadi,6.45,21,30,Rainy,High,Bike,9,1
+317,Viman Nagar,Pimpri,24.9,76,88,Cloudy,Medium,Bike,12,1
+318,Hadapsar,Pimpri,8.43,23,38,Rainy,High,Bike,15,1
+319,Viman Nagar,Magarpatta,3.88,11,14,Clear,High,Auto,3,0
+320,Viman Nagar,Pimpri,20.56,68,80,Foggy,Medium,Bike,12,1
+321,Hadapsar,Camp,11.95,32,36,Cloudy,Medium,Bike,4,0
+322,Hinjewadi,Magarpatta,13.56,38,56,Foggy,High,Bike,18,1
+323,Kothrud,Pimpri,18.47,49,60,Foggy,Medium,Bike,11,1
+324,Hadapsar,FC Road,14.68,41,53,Rainy,Medium,Bike,12,1
+325,Hinjewadi,Kharadi,23.8,75,75,Clear,Low,Auto,0,0
+326,Shivajinagar,Wakad,16.62,47,47,Clear,Low,Bike,0,0
+327,Kothrud,FC Road,8.25,21,28,Rainy,Medium,Bike,7,1
+328,Koregaon Park,Camp,12.3,31,34,Cloudy,Medium,Auto,3,0
+329,Koregaon Park,Pimpri,5.7,18,23,Cloudy,High,Auto,5,0
+330,Baner,Camp,23.8,78,87,Rainy,Low,Auto,9,1
+331,Viman Nagar,Swargate,9.34,32,35,Rainy,Low,Auto,3,0
+332,Kothrud,Wakad,6.31,17,21,Clear,High,Auto,4,0
+333,Hadapsar,Kharadi,23.5,69,79,Foggy,Medium,Bike,10,1
+334,Baner,Pimpri,8.11,27,34,Cloudy,High,Auto,7,1
+335,Hadapsar,Camp,20.31,60,77,Foggy,High,Auto,17,1
+336,Baner,FC Road,6.78,18,20,Cloudy,Medium,Auto,2,0
+337,Hinjewadi,Swargate,10.77,31,35,Rainy,Low,Auto,4,0
+338,Kothrud,Pimpri,18.58,63,70,Rainy,Low,Bike,7,1
+339,Shivajinagar,Kharadi,5.78,15,18,Rainy,Low,Bike,3,0
+340,Shivajinagar,Swargate,11.2,34,34,Cloudy,Low,Bike,0,0
+341,Hinjewadi,Wakad,23.48,76,79,Cloudy,Medium,Bike,3,0
+342,Hadapsar,Kharadi,24.46,69,94,Cloudy,High,Auto,25,1
+343,Baner,Kharadi,17.67,58,83,Foggy,High,Auto,25,1
+344,Hinjewadi,Swargate,17.92,46,50,Foggy,Low,Bike,4,0
+345,Hinjewadi,FC Road,4.21,13,17,Rainy,High,Auto,4,0
+346,Baner,Wakad,17.9,61,84,Foggy,High,Bike,23,1
+347,Koregaon Park,Magarpatta,22.99,65,70,Foggy,Low,Auto,5,0
+348,Hinjewadi,FC Road,10.59,29,33,Clear,Medium,Bike,4,0
+349,Viman Nagar,Camp,24.84,82,110,Rainy,Medium,Auto,28,1
+350,Baner,Kharadi,16.15,42,50,Foggy,Medium,Auto,8,1
+351,Baner,Wakad,4.95,14,17,Foggy,Medium,Bike,3,0
+352,Baner,Swargate,7.38,24,30,Foggy,Medium,Bike,6,1
+353,Koregaon Park,FC Road,13.87,44,44,Clear,Low,Bike,0,0
+354,Kothrud,FC Road,9.6,30,43,Foggy,High,Bike,13,1
+355,Viman Nagar,Swargate,13.82,44,44,Clear,Low,Bike,0,0
+356,Baner,FC Road,13.85,48,61,Cloudy,High,Auto,13,1
+357,Baner,FC Road,16.82,50,63,Clear,High,Auto,13,1
+358,Koregaon Park,Magarpatta,21.6,57,67,Rainy,Low,Auto,10,1
+359,Hadapsar,Swargate,10.86,27,30,Foggy,Medium,Auto,3,0
+360,Hadapsar,Magarpatta,14.31,46,46,Clear,Low,Bike,0,0
+361,Koregaon Park,FC Road,22.19,73,96,Cloudy,High,Auto,23,1
+362,Hadapsar,FC Road,5.11,15,15,Clear,Low,Bike,0,0
+363,Koregaon Park,FC Road,11.21,33,42,Rainy,Medium,Bike,9,1
+364,Baner,Swargate,20.49,62,78,Clear,High,Auto,16,1
+365,Hinjewadi,Magarpatta,21.01,71,81,Cloudy,Medium,Auto,10,1
+366,Kothrud,Pimpri,12.72,44,58,Cloudy,High,Bike,14,1
+367,Hinjewadi,Camp,20.92,56,76,Rainy,High,Bike,20,1
+368,Hinjewadi,Wakad,18.2,59,59,Clear,Low,Auto,0,0
+369,Baner,Wakad,3.94,10,11,Clear,High,Auto,1,0
+370,Shivajinagar,Magarpatta,4.46,14,14,Clear,Low,Bike,0,0
+371,Koregaon Park,Swargate,7.07,20,25,Rainy,Low,Auto,5,0
+372,Shivajinagar,FC Road,6.53,19,26,Rainy,High,Bike,7,1
+373,Hinjewadi,Kharadi,7.77,20,26,Rainy,Medium,Bike,6,1
+374,Kothrud,Kharadi,21.73,64,92,Rainy,High,Auto,28,1
+375,Baner,FC Road,24.59,71,104,Rainy,High,Auto,33,1
+376,Hinjewadi,Wakad,5.43,14,14,Cloudy,Medium,Bike,0,0
+377,Viman Nagar,Magarpatta,11.47,33,39,Cloudy,High,Auto,6,1
+378,Viman Nagar,FC Road,24.67,72,76,Foggy,Low,Auto,4,0
+379,Hadapsar,Wakad,17.79,51,60,Clear,High,Bike,9,1
+380,Viman Nagar,Camp,15.99,41,41,Clear,Low,Auto,0,0
+381,Kothrud,FC Road,7.41,24,28,Clear,Medium,Bike,4,0
+382,Hadapsar,Wakad,9.13,29,35,Cloudy,High,Auto,6,1
+383,Hadapsar,Kharadi,23.9,83,111,Cloudy,High,Bike,28,1
+384,Hinjewadi,Magarpatta,8.52,25,32,Rainy,High,Bike,7,1
+385,Hinjewadi,Wakad,17.92,62,67,Cloudy,Medium,Bike,5,0
+386,Koregaon Park,Magarpatta,19.72,62,81,Foggy,High,Auto,19,1
+387,Viman Nagar,Kharadi,8.76,24,33,Clear,High,Bike,9,1
+388,Hinjewadi,Wakad,12.9,43,49,Foggy,Medium,Bike,6,1
+389,Baner,Pimpri,9.67,31,36,Foggy,Medium,Bike,5,0
+390,Baner,Magarpatta,15.51,46,62,Foggy,High,Auto,16,1
+391,Hinjewadi,Wakad,8.79,27,29,Cloudy,Medium,Auto,2,0
+392,Hinjewadi,Kharadi,3.99,13,14,Clear,Medium,Auto,1,0
+393,Viman Nagar,FC Road,24.82,72,82,Rainy,Low,Bike,10,1
+394,Shivajinagar,Kharadi,4.87,15,16,Clear,Medium,Auto,1,0
+395,Koregaon Park,FC Road,3.82,12,13,Foggy,Medium,Auto,1,0
+396,Hinjewadi,FC Road,11.31,32,37,Clear,High,Auto,5,0
+397,Hadapsar,Swargate,10.39,31,40,Cloudy,High,Bike,9,1
+398,Shivajinagar,Wakad,7.44,23,26,Rainy,Low,Auto,3,0
+399,Shivajinagar,Kharadi,11.84,32,41,Clear,High,Bike,9,1
+400,Shivajinagar,Magarpatta,15.46,46,64,Rainy,Medium,Auto,18,1
+401,Shivajinagar,Kharadi,20.69,60,75,Cloudy,High,Bike,15,1
+402,Shivajinagar,Kharadi,14.34,45,67,Rainy,High,Bike,22,1
+403,Kothrud,Kharadi,13.98,44,65,Foggy,High,Auto,21,1
+404,Koregaon Park,Pimpri,19.92,58,71,Clear,High,Bike,13,1
+405,Kothrud,Swargate,6.31,20,24,Foggy,Medium,Auto,4,0
+406,Hinjewadi,Camp,7.48,21,27,Rainy,Medium,Auto,6,1
+407,Kothrud,Magarpatta,6.3,15,18,Foggy,Medium,Auto,3,0
+408,Hadapsar,Magarpatta,7.44,20,20,Cloudy,Low,Auto,0,0
+409,Hadapsar,Kharadi,6.87,23,29,Foggy,High,Bike,6,1
+410,Shivajinagar,Kharadi,9.56,24,26,Cloudy,Medium,Bike,2,0
+411,Baner,Camp,21.54,58,73,Clear,High,Auto,15,1
+412,Hinjewadi,Swargate,16.2,53,62,Cloudy,Medium,Auto,9,1
+413,Hadapsar,Swargate,23.58,64,82,Rainy,Low,Bike,18,1
+414,Viman Nagar,Wakad,8.59,26,28,Cloudy,Medium,Bike,2,0
+415,Viman Nagar,Wakad,18.02,62,62,Cloudy,Low,Auto,0,0
+416,Hadapsar,FC Road,21.07,53,70,Clear,High,Bike,17,1
+417,Baner,Camp,8.27,25,28,Cloudy,Medium,Bike,3,0
+418,Kothrud,Pimpri,12.73,31,32,Cloudy,Medium,Auto,1,0
+419,Baner,Pimpri,8.18,22,25,Foggy,Low,Auto,3,0
+420,Baner,Camp,11.94,30,33,Foggy,Low,Auto,3,0
+421,Baner,FC Road,18.78,63,75,Rainy,Low,Auto,12,1
+422,Shivajinagar,Wakad,16.25,53,70,Cloudy,High,Auto,17,1
+423,Baner,Magarpatta,17.11,45,60,Rainy,Medium,Bike,15,1
+424,Shivajinagar,Kharadi,4.81,12,18,Rainy,High,Auto,6,1
+425,Viman Nagar,Pimpri,19.17,52,62,Cloudy,High,Auto,10,1
+426,Viman Nagar,FC Road,7.0,23,38,Rainy,High,Bike,15,1
+427,Hadapsar,Kharadi,16.79,57,73,Rainy,Medium,Auto,16,1
+428,Viman Nagar,Kharadi,12.44,34,34,Cloudy,Low,Bike,0,0
+429,Koregaon Park,Magarpatta,3.31,10,11,Foggy,Medium,Bike,1,0
+430,Baner,Pimpri,20.21,56,66,Foggy,Medium,Bike,10,1
+431,Kothrud,Pimpri,9.23,29,36,Rainy,Medium,Auto,7,1
+432,Shivajinagar,Swargate,16.59,56,62,Foggy,Medium,Bike,6,1
+433,Shivajinagar,Camp,11.75,31,36,Foggy,Medium,Auto,5,0
+434,Hinjewadi,FC Road,23.48,69,75,Clear,Medium,Bike,6,1
+435,Koregaon Park,Wakad,9.66,27,34,Rainy,Medium,Bike,7,1
+436,Koregaon Park,Wakad,23.47,79,79,Clear,Low,Auto,0,0
+437,Hadapsar,Kharadi,12.52,34,38,Clear,Medium,Bike,4,0
+438,Baner,FC Road,19.45,66,74,Cloudy,Medium,Auto,8,1
+439,Viman Nagar,Swargate,9.94,34,36,Foggy,Low,Bike,2,0
+440,Hinjewadi,Swargate,7.03,20,21,Foggy,Low,Auto,1,0
+441,Viman Nagar,Magarpatta,12.71,44,61,Foggy,High,Auto,17,1
+442,Baner,Swargate,5.72,14,19,Rainy,Medium,Bike,5,0
+443,Koregaon Park,Camp,15.88,48,61,Rainy,Low,Auto,13,1
+444,Kothrud,Pimpri,13.96,36,41,Clear,Medium,Auto,5,0
+445,Hadapsar,Magarpatta,11.67,36,36,Cloudy,Low,Bike,0,0
+446,Hinjewadi,Magarpatta,13.13,42,49,Foggy,Medium,Auto,7,1
+447,Hinjewadi,Camp,16.69,49,79,Rainy,High,Bike,30,1
+448,Shivajinagar,FC Road,20.56,66,86,Foggy,High,Bike,20,1
+449,Baner,Pimpri,11.78,29,36,Rainy,Low,Auto,7,1
+450,Shivajinagar,Camp,19.56,61,61,Cloudy,Low,Auto,0,0
+451,Baner,Wakad,19.19,65,102,Rainy,High,Auto,37,1
+452,Koregaon Park,Swargate,13.77,46,48,Cloudy,Medium,Auto,2,0
+453,Viman Nagar,Pimpri,11.1,29,36,Foggy,High,Bike,7,1
+454,Viman Nagar,Camp,7.93,25,26,Foggy,Low,Bike,1,0
+455,Viman Nagar,Magarpatta,22.96,68,86,Rainy,Low,Auto,18,1
+456,Koregaon Park,Wakad,9.5,24,24,Clear,Low,Bike,0,0
+457,Koregaon Park,Wakad,12.09,35,42,Cloudy,High,Auto,7,1
+458,Hinjewadi,Pimpri,14.08,36,53,Foggy,High,Bike,17,1
+459,Hinjewadi,Magarpatta,12.16,38,46,Foggy,Medium,Auto,8,1
+460,Baner,Pimpri,7.12,19,23,Cloudy,High,Bike,4,0
+461,Hinjewadi,Magarpatta,11.69,29,42,Foggy,High,Auto,13,1
+462,Hadapsar,Kharadi,18.97,53,71,Cloudy,High,Auto,18,1
+463,Hinjewadi,Swargate,5.97,16,18,Rainy,Low,Bike,2,0
+464,Hadapsar,Swargate,17.29,50,70,Rainy,High,Bike,20,1
+465,Viman Nagar,Wakad,3.48,9,9,Foggy,Low,Auto,0,0
+466,Baner,Wakad,15.87,42,54,Foggy,High,Bike,12,1
+467,Baner,Camp,12.5,36,40,Cloudy,Medium,Bike,4,0
+468,Viman Nagar,Kharadi,16.0,49,70,Foggy,High,Bike,21,1
+469,Viman Nagar,Kharadi,9.95,25,32,Foggy,High,Auto,7,1
+470,Hadapsar,FC Road,12.86,37,37,Cloudy,Low,Bike,0,0
+471,Viman Nagar,FC Road,12.64,38,44,Cloudy,High,Auto,6,1
+472,Shivajinagar,Camp,18.65,64,86,Cloudy,High,Auto,22,1
+473,Baner,Swargate,16.68,46,54,Clear,High,Auto,8,1
+474,Kothrud,Swargate,16.33,42,50,Foggy,Medium,Auto,8,1
+475,Hinjewadi,FC Road,22.38,63,79,Rainy,Low,Bike,16,1
+476,Shivajinagar,Wakad,5.51,15,20,Rainy,High,Auto,5,0
+477,Shivajinagar,Pimpri,4.03,13,18,Rainy,Medium,Bike,5,0
+478,Viman Nagar,Pimpri,13.06,43,43,Clear,Low,Bike,0,0
+479,Baner,Kharadi,3.92,10,13,Clear,High,Bike,3,0
+480,Kothrud,Camp,9.43,27,34,Foggy,High,Bike,7,1
+481,Baner,Swargate,5.71,15,17,Clear,Medium,Bike,2,0
+482,Viman Nagar,FC Road,9.31,24,26,Cloudy,Medium,Auto,2,0
+483,Hadapsar,Swargate,6.34,20,27,Rainy,Medium,Bike,7,1
+484,Viman Nagar,Wakad,23.94,72,90,Cloudy,High,Bike,18,1
+485,Baner,Magarpatta,18.79,56,56,Clear,Low,Auto,0,0
+486,Shivajinagar,Wakad,24.6,65,72,Foggy,Low,Bike,7,1
+487,Hadapsar,Swargate,22.86,58,72,Cloudy,High,Auto,14,1
+488,Hadapsar,Camp,15.18,42,48,Cloudy,High,Auto,6,1
+489,Shivajinagar,Kharadi,16.43,43,55,Foggy,Medium,Bike,12,1
+490,Koregaon Park,Camp,12.73,36,51,Foggy,High,Bike,15,1
+491,Koregaon Park,FC Road,11.58,37,37,Cloudy,Low,Bike,0,0
+492,Hinjewadi,Kharadi,15.14,45,63,Rainy,High,Bike,18,1
+493,Koregaon Park,FC Road,8.31,27,39,Foggy,High,Bike,12,1
+494,Shivajinagar,Camp,14.16,37,45,Clear,High,Auto,8,1
+495,Hadapsar,Magarpatta,12.97,45,65,Rainy,High,Auto,20,1
+496,Baner,Camp,15.6,41,53,Rainy,Medium,Bike,12,1
+497,Baner,Pimpri,10.95,28,34,Foggy,High,Auto,6,1
+498,Kothrud,Wakad,7.73,19,28,Foggy,High,Auto,9,1
+499,Hadapsar,Wakad,24.92,79,89,Foggy,Medium,Bike,10,1
+500,Hadapsar,Wakad,5.85,18,22,Clear,High,Bike,4,0
+501,Hinjewadi,Camp,6.45,19,20,Foggy,Low,Bike,1,0
+502,Koregaon Park,FC Road,3.89,10,10,Cloudy,Medium,Auto,0,0
+503,Viman Nagar,Magarpatta,20.41,53,77,Foggy,High,Bike,24,1
+504,Shivajinagar,Swargate,7.03,22,22,Clear,Low,Auto,0,0
+505,Hinjewadi,Pimpri,3.98,11,13,Foggy,Medium,Auto,2,0
+506,Hadapsar,Pimpri,16.33,53,73,Foggy,High,Auto,20,1
+507,Hadapsar,FC Road,4.96,15,19,Foggy,High,Auto,4,0
+508,Koregaon Park,Magarpatta,24.08,81,110,Cloudy,High,Bike,29,1
+509,Hadapsar,Magarpatta,15.58,51,66,Cloudy,High,Bike,15,1
+510,Hinjewadi,Swargate,24.01,73,87,Rainy,Low,Auto,14,1
+511,Hinjewadi,Magarpatta,17.48,52,52,Cloudy,Low,Bike,0,0
+512,Kothrud,Pimpri,18.52,62,68,Clear,Medium,Auto,6,1
+513,Hinjewadi,Wakad,21.96,55,69,Rainy,Medium,Auto,14,1
+514,Viman Nagar,FC Road,5.0,17,22,Rainy,High,Auto,5,0
+515,Hinjewadi,Swargate,9.75,28,28,Clear,Low,Auto,0,0
+516,Kothrud,Magarpatta,18.69,52,52,Cloudy,Low,Bike,0,0
+517,Viman Nagar,FC Road,8.67,29,29,Clear,Low,Bike,0,0
+518,Kothrud,Pimpri,16.13,44,57,Foggy,High,Bike,13,1
+519,Koregaon Park,Wakad,4.44,11,16,Rainy,High,Bike,5,0
+520,Hadapsar,Magarpatta,8.42,25,25,Cloudy,Low,Auto,0,0
+521,Viman Nagar,Magarpatta,21.62,64,64,Cloudy,Low,Bike,0,0
+522,Baner,Swargate,14.83,43,53,Foggy,High,Bike,10,1
+523,Baner,Kharadi,9.36,32,32,Clear,Low,Auto,0,0
+524,Shivajinagar,Kharadi,8.52,27,35,Rainy,Medium,Auto,8,1
+525,Koregaon Park,Magarpatta,9.61,27,34,Rainy,Low,Auto,7,1
+526,Kothrud,Kharadi,14.11,46,64,Cloudy,High,Auto,18,1
+527,Hadapsar,Wakad,9.01,28,31,Cloudy,Medium,Bike,3,0
+528,Koregaon Park,FC Road,3.35,10,11,Clear,High,Auto,1,0
+529,Hinjewadi,Camp,6.82,20,28,Foggy,High,Auto,8,1
+530,Hadapsar,Camp,4.71,11,15,Foggy,High,Bike,4,0
+531,Baner,Kharadi,10.88,29,36,Clear,High,Bike,7,1
+532,Kothrud,Wakad,3.21,10,10,Cloudy,Medium,Bike,0,0
+533,Koregaon Park,Camp,9.67,31,32,Foggy,Low,Auto,1,0
+534,Viman Nagar,Camp,18.55,50,56,Foggy,Low,Bike,6,1
+535,Koregaon Park,Kharadi,13.87,42,64,Rainy,High,Bike,22,1
+536,Kothrud,FC Road,23.54,78,106,Cloudy,High,Bike,28,1
+537,Hinjewadi,Camp,17.91,55,82,Foggy,High,Bike,27,1
+538,Hadapsar,Magarpatta,21.78,61,70,Cloudy,Medium,Bike,9,1
+539,Viman Nagar,Wakad,10.95,35,49,Rainy,High,Bike,14,1
+540,Viman Nagar,FC Road,3.11,8,8,Clear,Low,Bike,0,0
+541,Hadapsar,Wakad,24.07,82,95,Rainy,Low,Auto,13,1
+542,Hadapsar,Camp,5.13,15,15,Cloudy,Low,Auto,0,0
+543,Kothrud,Magarpatta,13.42,46,46,Cloudy,Low,Bike,0,0
+544,Hinjewadi,Pimpri,16.2,47,49,Foggy,Low,Bike,2,0
+545,Hinjewadi,Magarpatta,11.3,38,44,Clear,High,Bike,6,1
+546,Baner,Wakad,4.21,13,14,Clear,Medium,Bike,1,0
+547,Koregaon Park,Magarpatta,9.49,27,30,Foggy,Low,Bike,3,0
+548,Baner,Camp,16.73,49,60,Foggy,Medium,Bike,11,1
+549,Baner,Magarpatta,12.99,36,36,Clear,Low,Bike,0,0
+550,Hinjewadi,Kharadi,18.69,57,66,Rainy,Low,Auto,9,1
+551,Viman Nagar,Camp,16.66,44,44,Clear,Low,Bike,0,0
+552,Kothrud,FC Road,15.86,47,60,Cloudy,High,Auto,13,1
+553,Koregaon Park,Pimpri,6.2,18,22,Cloudy,High,Auto,4,0
+554,Hinjewadi,Kharadi,15.9,50,59,Rainy,Low,Bike,9,1
+555,Kothrud,Swargate,17.09,46,46,Cloudy,Low,Bike,0,0
+556,Hadapsar,Wakad,18.29,63,82,Cloudy,High,Auto,19,1
+557,Viman Nagar,FC Road,6.57,19,21,Foggy,Low,Bike,2,0
+558,Hadapsar,Swargate,18.25,54,67,Rainy,Low,Auto,13,1
+559,Baner,FC Road,20.76,59,71,Rainy,Medium,Bike,12,1
+560,Hinjewadi,Kharadi,5.53,15,15,Cloudy,Low,Bike,0,0
+561,Hinjewadi,Swargate,7.35,19,25,Rainy,Medium,Auto,6,1
+562,Kothrud,Magarpatta,6.87,18,18,Clear,Low,Bike,0,0
+563,Viman Nagar,Camp,20.32,53,53,Cloudy,Low,Auto,0,0
+564,Kothrud,FC Road,20.81,65,85,Foggy,High,Bike,20,1
+565,Kothrud,Pimpri,7.17,21,27,Cloudy,High,Auto,6,1
+566,Hadapsar,Swargate,23.26,75,113,Rainy,High,Auto,38,1
+567,Hinjewadi,Camp,20.5,69,100,Foggy,High,Bike,31,1
+568,Baner,Camp,16.53,44,49,Cloudy,Medium,Auto,5,0
+569,Kothrud,FC Road,18.67,56,66,Foggy,Medium,Auto,10,1
+570,Baner,Kharadi,17.29,46,50,Foggy,Low,Bike,4,0
+571,Shivajinagar,Wakad,22.55,69,73,Cloudy,Medium,Bike,4,0
+572,Hinjewadi,FC Road,12.78,36,46,Clear,High,Auto,10,1
+573,Shivajinagar,Wakad,12.93,37,42,Foggy,Medium,Auto,5,0
+574,Viman Nagar,Swargate,8.84,22,22,Cloudy,Low,Bike,0,0
+575,Baner,FC Road,23.39,60,60,Cloudy,Low,Bike,0,0
+576,Koregaon Park,Swargate,10.34,32,34,Cloudy,Medium,Auto,2,0
+577,Koregaon Park,Swargate,24.96,81,108,Cloudy,High,Bike,27,1
+578,Shivajinagar,Pimpri,10.63,37,42,Clear,Medium,Auto,5,0
+579,Baner,Swargate,22.04,60,85,Rainy,High,Auto,25,1
+580,Koregaon Park,Pimpri,13.31,44,51,Clear,Medium,Auto,7,1
+581,Viman Nagar,Pimpri,23.72,69,83,Foggy,Medium,Bike,14,1
+582,Kothrud,FC Road,23.75,59,71,Cloudy,High,Auto,12,1
+583,Viman Nagar,Camp,19.56,63,81,Cloudy,High,Auto,18,1
+584,Koregaon Park,Pimpri,3.71,9,10,Foggy,Medium,Auto,1,0
+585,Koregaon Park,Wakad,7.14,18,22,Foggy,High,Auto,4,0
+586,Koregaon Park,Swargate,3.71,11,11,Clear,Medium,Bike,0,0
+587,Viman Nagar,FC Road,7.53,21,24,Clear,High,Auto,3,0
+588,Koregaon Park,Magarpatta,6.78,22,27,Foggy,Medium,Bike,5,0
+589,Viman Nagar,Wakad,19.35,55,63,Rainy,Low,Bike,8,1
+590,Baner,Camp,17.63,46,58,Cloudy,High,Bike,12,1
+591,Hadapsar,Wakad,9.06,22,24,Foggy,Low,Bike,2,0
+592,Koregaon Park,Pimpri,8.43,23,30,Foggy,High,Auto,7,1
+593,Hinjewadi,FC Road,17.22,58,66,Cloudy,Medium,Auto,8,1
+594,Baner,Pimpri,6.85,18,24,Foggy,High,Auto,6,1
+595,Hadapsar,Kharadi,5.1,16,18,Rainy,Low,Bike,2,0
+596,Hadapsar,Kharadi,9.42,32,48,Rainy,High,Auto,16,1
+597,Hinjewadi,FC Road,4.68,12,13,Foggy,Medium,Auto,1,0
+598,Hinjewadi,Wakad,3.59,11,14,Foggy,High,Auto,3,0
+599,Kothrud,Wakad,3.83,10,15,Rainy,High,Auto,5,0
+600,Viman Nagar,Magarpatta,4.82,15,20,Foggy,High,Bike,5,0
+601,Kothrud,Swargate,21.45,66,66,Cloudy,Low,Bike,0,0
+602,Koregaon Park,Camp,11.6,29,29,Cloudy,Low,Bike,0,0
+603,Viman Nagar,FC Road,6.91,22,35,Rainy,High,Auto,13,1
+604,Baner,Kharadi,17.1,55,60,Foggy,Low,Auto,5,0
+605,Koregaon Park,Magarpatta,4.07,11,14,Rainy,Low,Auto,3,0
+606,Kothrud,Magarpatta,3.35,8,8,Cloudy,Low,Bike,0,0
+607,Hadapsar,Camp,4.39,15,16,Rainy,Low,Bike,1,0
+608,Koregaon Park,Magarpatta,20.94,59,92,Rainy,High,Bike,33,1
+609,Viman Nagar,Magarpatta,8.11,21,26,Rainy,Medium,Bike,5,0
+610,Viman Nagar,Swargate,13.09,33,34,Cloudy,Medium,Bike,1,0
+611,Kothrud,Wakad,9.63,29,37,Rainy,Low,Auto,8,1
+612,Koregaon Park,FC Road,24.59,78,112,Rainy,High,Auto,34,1
+613,Hadapsar,FC Road,24.52,77,77,Cloudy,Low,Bike,0,0
+614,Koregaon Park,Kharadi,12.88,38,54,Rainy,High,Bike,16,1
+615,Hinjewadi,FC Road,8.2,24,24,Clear,Low,Bike,0,0
+616,Kothrud,FC Road,13.97,37,49,Rainy,Medium,Bike,12,1
+617,Viman Nagar,Camp,22.3,58,66,Clear,Medium,Auto,8,1
+618,Shivajinagar,Pimpri,3.52,11,11,Cloudy,Medium,Bike,0,0
+619,Hinjewadi,Camp,24.74,81,114,Rainy,High,Auto,33,1
+620,Hadapsar,Magarpatta,4.42,13,13,Clear,Low,Bike,0,0
+621,Kothrud,Swargate,5.02,15,17,Rainy,Low,Bike,2,0
+622,Viman Nagar,FC Road,6.61,17,22,Rainy,Medium,Bike,5,0
+623,Hadapsar,Swargate,8.98,29,29,Cloudy,Low,Auto,0,0
+624,Viman Nagar,Swargate,13.36,39,57,Foggy,High,Bike,18,1
+625,Hinjewadi,Pimpri,11.39,38,48,Rainy,Medium,Bike,10,1
+626,Viman Nagar,FC Road,11.25,34,34,Cloudy,Low,Bike,0,0
+627,Hadapsar,Wakad,7.31,24,24,Clear,Low,Auto,0,0
+628,Viman Nagar,Wakad,23.37,80,101,Cloudy,High,Auto,21,1
+629,Hadapsar,Kharadi,4.57,15,16,Foggy,Low,Bike,1,0
+630,Viman Nagar,FC Road,19.97,64,81,Foggy,Medium,Auto,17,1
+631,Viman Nagar,Camp,8.43,25,27,Clear,Medium,Bike,2,0
+632,Viman Nagar,Camp,6.24,17,22,Rainy,High,Bike,5,0
+633,Hadapsar,Wakad,11.75,36,40,Rainy,Low,Auto,4,0
+634,Viman Nagar,FC Road,18.22,54,78,Foggy,High,Auto,24,1
+635,Hadapsar,Pimpri,4.96,15,21,Rainy,Medium,Auto,6,1
+636,Viman Nagar,Camp,9.78,34,36,Clear,Medium,Bike,2,0
+637,Hadapsar,Wakad,14.55,45,56,Foggy,High,Bike,11,1
+638,Kothrud,Swargate,13.7,41,43,Foggy,Low,Bike,2,0
+639,Hinjewadi,Camp,7.02,22,27,Foggy,Medium,Auto,5,0
+640,Baner,Camp,6.65,18,19,Clear,Medium,Auto,1,0
+641,Hinjewadi,Kharadi,8.17,24,24,Clear,Low,Bike,0,0
+642,Shivajinagar,Pimpri,24.01,75,75,Clear,Low,Bike,0,0
+643,Koregaon Park,Pimpri,3.16,9,11,Foggy,Medium,Auto,2,0
+644,Shivajinagar,FC Road,18.0,51,67,Rainy,Medium,Auto,16,1
+645,Hinjewadi,FC Road,22.21,73,81,Foggy,Low,Auto,8,1
+646,Kothrud,Magarpatta,16.24,54,73,Rainy,Medium,Auto,19,1
+647,Baner,Wakad,14.33,45,45,Cloudy,Low,Bike,0,0
+648,Hadapsar,FC Road,22.22,77,93,Cloudy,High,Auto,16,1
+649,Viman Nagar,Wakad,19.26,63,84,Foggy,Medium,Auto,21,1
+650,Hinjewadi,Camp,11.47,35,50,Rainy,High,Bike,15,1
+651,Shivajinagar,Pimpri,17.81,54,75,Rainy,Medium,Auto,21,1
+652,Koregaon Park,Swargate,8.35,22,27,Clear,High,Bike,5,0
+653,Hadapsar,Magarpatta,6.53,22,25,Cloudy,Medium,Bike,3,0
+654,Hadapsar,Wakad,23.93,75,105,Rainy,High,Auto,30,1
+655,Baner,Swargate,23.5,76,94,Clear,High,Auto,18,1
+656,Hadapsar,Camp,19.19,55,69,Foggy,High,Bike,14,1
+657,Hinjewadi,Magarpatta,4.96,16,16,Clear,Low,Auto,0,0
+658,Kothrud,Pimpri,9.89,28,32,Clear,High,Auto,4,0
+659,Koregaon Park,Swargate,21.64,75,84,Cloudy,Medium,Bike,9,1
+660,Koregaon Park,Kharadi,7.89,22,29,Foggy,High,Auto,7,1
+661,Baner,Swargate,14.0,41,54,Cloudy,High,Bike,13,1
+662,Baner,Pimpri,21.21,53,57,Cloudy,Medium,Bike,4,0
+663,Baner,Camp,15.63,48,53,Foggy,Low,Auto,5,0
+664,Viman Nagar,Magarpatta,24.59,69,99,Rainy,High,Bike,30,1
+665,Baner,Pimpri,6.94,20,23,Cloudy,Medium,Bike,3,0
+666,Koregaon Park,Wakad,10.42,33,39,Foggy,Medium,Auto,6,1
+667,Shivajinagar,Camp,23.31,74,96,Foggy,High,Bike,22,1
+668,Koregaon Park,Pimpri,20.71,69,90,Cloudy,High,Auto,21,1
+669,Koregaon Park,Swargate,12.72,37,46,Rainy,Low,Bike,9,1
+670,Kothrud,Camp,17.33,49,60,Clear,High,Bike,11,1
+671,Viman Nagar,Camp,21.52,73,73,Cloudy,Low,Auto,0,0
+672,Kothrud,Magarpatta,5.58,16,19,Foggy,Medium,Bike,3,0
+673,Hinjewadi,Magarpatta,8.3,24,39,Rainy,High,Auto,15,1
+674,Hadapsar,Camp,4.97,14,19,Foggy,High,Auto,5,0
+675,Hinjewadi,Magarpatta,5.57,14,22,Rainy,High,Bike,8,1
+676,Viman Nagar,FC Road,18.26,47,70,Rainy,High,Auto,23,1
+677,Viman Nagar,FC Road,15.57,40,50,Rainy,Low,Auto,10,1
+678,Hinjewadi,Wakad,15.23,46,63,Foggy,High,Bike,17,1
+679,Hadapsar,Pimpri,20.38,53,53,Clear,Low,Bike,0,0
+680,Baner,Kharadi,18.29,45,47,Cloudy,Medium,Bike,2,0
+681,Koregaon Park,Swargate,17.36,44,52,Clear,Medium,Bike,8,1
+682,Koregaon Park,FC Road,11.0,33,36,Clear,Medium,Bike,3,0
+683,Koregaon Park,Pimpri,9.45,28,30,Foggy,Low,Auto,2,0
+684,Shivajinagar,Kharadi,14.84,40,40,Clear,Low,Bike,0,0
+685,Hinjewadi,Swargate,6.12,20,24,Rainy,Low,Bike,4,0
+686,Shivajinagar,Swargate,19.04,55,68,Cloudy,High,Auto,13,1
+687,Kothrud,Wakad,13.03,44,59,Foggy,High,Bike,15,1
+688,Hadapsar,FC Road,24.9,79,79,Cloudy,Low,Bike,0,0
+689,Viman Nagar,Pimpri,6.38,22,27,Foggy,Medium,Bike,5,0
+690,Shivajinagar,Magarpatta,14.69,46,52,Clear,Medium,Auto,6,1
+691,Shivajinagar,FC Road,20.12,53,53,Cloudy,Low,Bike,0,0
+692,Hinjewadi,Wakad,24.55,66,66,Clear,Low,Bike,0,0
+693,Koregaon Park,Camp,22.26,68,78,Clear,Medium,Auto,10,1
+694,Baner,FC Road,15.13,47,60,Rainy,Low,Auto,13,1
+695,Viman Nagar,Swargate,10.59,34,46,Foggy,High,Auto,12,1
+696,Hadapsar,Kharadi,18.69,59,62,Foggy,Low,Auto,3,0
+697,Hadapsar,Camp,24.44,78,83,Foggy,Low,Auto,5,0
+698,Shivajinagar,Pimpri,13.31,37,46,Rainy,Medium,Auto,9,1
+699,Shivajinagar,Wakad,19.95,66,87,Clear,High,Bike,21,1
+700,Hinjewadi,Swargate,15.66,40,51,Foggy,Medium,Bike,11,1
+701,Koregaon Park,Camp,6.0,17,19,Clear,High,Auto,2,0
+702,Kothrud,Pimpri,19.41,62,86,Cloudy,High,Bike,24,1
+703,Hadapsar,Pimpri,24.98,86,119,Clear,High,Auto,33,1
+704,Hadapsar,Pimpri,14.52,39,39,Cloudy,Low,Bike,0,0
+705,Koregaon Park,FC Road,23.95,69,94,Rainy,Medium,Auto,25,1
+706,Hadapsar,Swargate,21.3,71,71,Cloudy,Low,Auto,0,0
+707,Viman Nagar,FC Road,8.82,22,33,Foggy,High,Bike,11,1
+708,Hadapsar,Kharadi,21.17,53,64,Foggy,Medium,Bike,11,1
+709,Shivajinagar,FC Road,10.79,27,36,Rainy,High,Auto,9,1
+710,Viman Nagar,Swargate,4.86,14,15,Foggy,Low,Bike,1,0
+711,Hinjewadi,Swargate,19.93,54,64,Foggy,Medium,Auto,10,1
+712,Kothrud,Kharadi,20.85,54,64,Foggy,Medium,Bike,10,1
+713,Hinjewadi,FC Road,22.44,72,79,Rainy,Low,Auto,7,1
+714,Viman Nagar,Wakad,19.37,65,83,Rainy,Low,Auto,18,1
+715,Shivajinagar,Magarpatta,12.26,37,58,Rainy,High,Auto,21,1
+716,Viman Nagar,Kharadi,18.97,61,88,Rainy,Medium,Bike,27,1
+717,Kothrud,Swargate,10.57,26,38,Rainy,High,Bike,12,1
+718,Koregaon Park,Camp,3.18,9,11,Foggy,Medium,Bike,2,0
+719,Kothrud,Camp,14.25,39,39,Cloudy,Low,Bike,0,0
+720,Hadapsar,Pimpri,12.44,36,46,Rainy,Low,Bike,10,1
+721,Koregaon Park,Camp,16.96,46,49,Foggy,Low,Bike,3,0
+722,Kothrud,Swargate,12.38,38,38,Clear,Low,Auto,0,0
+723,Viman Nagar,Kharadi,9.74,30,35,Rainy,Low,Auto,5,0
+724,Hinjewadi,Kharadi,12.4,31,31,Cloudy,Low,Auto,0,0
+725,Shivajinagar,FC Road,18.65,51,56,Rainy,Low,Bike,5,0
+726,Hadapsar,Camp,10.08,28,30,Clear,Medium,Auto,2,0
+727,Viman Nagar,FC Road,10.35,27,33,Clear,High,Bike,6,1
+728,Hadapsar,Pimpri,10.95,35,45,Cloudy,High,Bike,10,1
+729,Kothrud,Kharadi,11.45,38,38,Clear,Low,Bike,0,0
+730,Koregaon Park,Camp,20.98,56,66,Clear,Medium,Bike,10,1
+731,Koregaon Park,FC Road,9.63,28,31,Rainy,Low,Bike,3,0
+732,Viman Nagar,Kharadi,18.66,63,79,Cloudy,High,Auto,16,1
+733,Hadapsar,Magarpatta,23.04,59,67,Clear,Medium,Bike,8,1
+734,Hadapsar,Swargate,9.37,32,38,Rainy,Low,Auto,6,1
+735,Koregaon Park,Pimpri,14.3,36,42,Foggy,Medium,Auto,6,1
+736,Kothrud,Magarpatta,6.52,17,21,Clear,High,Auto,4,0
+737,Hadapsar,Kharadi,8.69,29,31,Cloudy,Medium,Bike,2,0
+738,Hinjewadi,Kharadi,8.24,20,20,Cloudy,Low,Bike,0,0
+739,Shivajinagar,Pimpri,20.39,64,70,Rainy,Low,Bike,6,1
+740,Shivajinagar,Camp,16.31,46,46,Cloudy,Low,Bike,0,0
+741,Viman Nagar,Kharadi,9.49,33,39,Clear,High,Auto,6,1
+742,Shivajinagar,Swargate,8.63,21,29,Clear,High,Auto,8,1
+743,Shivajinagar,Pimpri,16.78,52,56,Foggy,Low,Bike,4,0
+744,Kothrud,Kharadi,16.86,56,74,Rainy,Medium,Auto,18,1
+745,Shivajinagar,Swargate,22.85,59,66,Foggy,Low,Bike,7,1
+746,Kothrud,Swargate,15.53,53,53,Cloudy,Low,Bike,0,0
+747,Shivajinagar,Swargate,22.48,74,101,Rainy,High,Bike,27,1
+748,Viman Nagar,Camp,24.35,63,93,Rainy,High,Bike,30,1
+749,Hinjewadi,Magarpatta,21.18,69,83,Clear,High,Bike,14,1
+750,Hinjewadi,FC Road,6.14,19,19,Clear,Low,Bike,0,0
+751,Koregaon Park,Camp,21.0,70,83,Rainy,Low,Bike,13,1
+752,Koregaon Park,Wakad,20.94,58,75,Rainy,Medium,Bike,17,1
+753,Hadapsar,Kharadi,5.71,18,18,Cloudy,Low,Bike,0,0
+754,Koregaon Park,Pimpri,12.14,30,30,Clear,Low,Bike,0,0
+755,Viman Nagar,Wakad,6.24,19,20,Foggy,Low,Bike,1,0
+756,Hinjewadi,Swargate,5.24,18,19,Clear,Medium,Auto,1,0
+757,Hinjewadi,Magarpatta,16.3,43,56,Cloudy,High,Bike,13,1
+758,Kothrud,Camp,18.12,56,61,Cloudy,Medium,Bike,5,0
+759,Viman Nagar,Camp,11.12,30,40,Clear,High,Bike,10,1
+760,Kothrud,Pimpri,17.43,49,60,Foggy,Medium,Auto,11,1
+761,Viman Nagar,Camp,9.13,23,26,Rainy,Low,Auto,3,0
+762,Viman Nagar,Wakad,13.59,47,63,Cloudy,High,Bike,16,1
+763,Hadapsar,Swargate,11.43,34,46,Foggy,High,Bike,12,1
+764,Viman Nagar,Kharadi,15.71,50,65,Rainy,High,Bike,15,1
+765,Baner,Magarpatta,10.97,32,32,Clear,Low,Bike,0,0
+766,Shivajinagar,FC Road,21.67,72,72,Cloudy,Low,Auto,0,0
+767,Kothrud,Pimpri,21.77,75,96,Rainy,Medium,Bike,21,1
+768,Kothrud,Magarpatta,24.17,77,85,Clear,Medium,Auto,8,1
+769,Hadapsar,Magarpatta,17.58,45,59,Rainy,High,Bike,14,1
+770,Kothrud,Magarpatta,3.27,10,12,Rainy,Medium,Bike,2,0
+771,Koregaon Park,Camp,23.87,70,94,Cloudy,High,Auto,24,1
+772,Hadapsar,Magarpatta,9.31,24,30,Clear,High,Bike,6,1
+773,Hinjewadi,Wakad,21.32,67,77,Cloudy,Medium,Auto,10,1
+774,Viman Nagar,Swargate,8.98,23,28,Rainy,Medium,Bike,5,0
+775,Viman Nagar,Swargate,21.1,73,92,Clear,High,Auto,19,1
+776,Hadapsar,Camp,11.91,34,34,Cloudy,Low,Auto,0,0
+777,Kothrud,FC Road,5.38,13,15,Cloudy,High,Bike,2,0
+778,Kothrud,Kharadi,5.34,14,14,Cloudy,Low,Bike,0,0
+779,Koregaon Park,Swargate,17.04,43,48,Clear,Medium,Bike,5,0
+780,Baner,Wakad,4.0,11,12,Clear,Medium,Auto,1,0
+781,Viman Nagar,Kharadi,7.29,23,30,Cloudy,High,Bike,7,1
+782,Hinjewadi,FC Road,11.96,38,46,Rainy,Low,Bike,8,1
+783,Viman Nagar,Wakad,15.9,53,67,Rainy,Medium,Bike,14,1
+784,Hadapsar,Magarpatta,23.96,65,84,Rainy,Low,Bike,19,1
+785,Koregaon Park,Kharadi,24.83,77,103,Cloudy,High,Auto,26,1
+786,Shivajinagar,FC Road,10.93,36,39,Clear,Medium,Auto,3,0
+787,Koregaon Park,Kharadi,4.65,12,16,Foggy,High,Bike,4,0
+788,Baner,FC Road,15.04,52,56,Foggy,Low,Bike,4,0
+789,Kothrud,FC Road,6.55,18,19,Cloudy,Medium,Bike,1,0
+790,Hadapsar,Pimpri,13.14,45,60,Foggy,Medium,Bike,15,1
+791,Viman Nagar,Magarpatta,11.0,30,41,Rainy,Medium,Auto,11,1
+792,Shivajinagar,FC Road,4.84,14,16,Cloudy,Medium,Bike,2,0
+793,Hadapsar,Magarpatta,19.3,52,70,Clear,High,Bike,18,1
+794,Shivajinagar,Wakad,6.48,18,22,Rainy,Low,Auto,4,0
+795,Hadapsar,Magarpatta,10.68,31,40,Foggy,High,Bike,9,1
+796,Viman Nagar,Pimpri,12.53,36,36,Cloudy,Low,Auto,0,0
+797,Koregaon Park,Wakad,7.68,24,24,Cloudy,Low,Auto,0,0
+798,Hinjewadi,Kharadi,6.43,19,30,Rainy,High,Auto,11,1
+799,Baner,Wakad,4.37,14,16,Foggy,Medium,Bike,2,0
+800,Baner,Camp,12.3,33,33,Clear,Low,Bike,0,0
+801,Hinjewadi,FC Road,11.91,33,46,Foggy,High,Auto,13,1
+802,Shivajinagar,Swargate,21.27,55,59,Cloudy,Medium,Auto,4,0
+803,Shivajinagar,Wakad,13.6,41,46,Foggy,Low,Auto,5,0
+804,Koregaon Park,Wakad,21.11,64,98,Rainy,High,Bike,34,1
+805,Kothrud,FC Road,17.61,58,68,Cloudy,High,Bike,10,1
+806,Viman Nagar,Swargate,13.99,39,51,Foggy,High,Auto,12,1
+807,Viman Nagar,Pimpri,21.86,68,81,Clear,High,Bike,13,1
+808,Kothrud,Wakad,18.32,59,81,Foggy,High,Bike,22,1
+809,Hadapsar,Kharadi,24.01,68,80,Clear,Medium,Auto,12,1
+810,Koregaon Park,Pimpri,22.09,70,93,Foggy,High,Auto,23,1
+811,Koregaon Park,Wakad,14.51,47,55,Rainy,Low,Auto,8,1
+812,Kothrud,Kharadi,16.09,48,54,Cloudy,Medium,Auto,6,1
+813,Hadapsar,Kharadi,23.63,80,80,Clear,Low,Bike,0,0
+814,Hinjewadi,Camp,3.36,11,12,Foggy,Low,Bike,1,0
+815,Koregaon Park,Kharadi,20.73,65,89,Rainy,Medium,Bike,24,1
+816,Hinjewadi,Swargate,21.84,75,97,Foggy,Medium,Auto,22,1
+817,Baner,Camp,11.71,40,40,Cloudy,Low,Auto,0,0
+818,Hadapsar,FC Road,9.76,33,45,Rainy,Medium,Bike,12,1
+819,Hinjewadi,Magarpatta,6.37,18,21,Cloudy,High,Auto,3,0
+820,Koregaon Park,Wakad,8.32,28,31,Foggy,Low,Bike,3,0
+821,Koregaon Park,Wakad,5.84,18,28,Rainy,High,Auto,10,1
+822,Viman Nagar,Swargate,5.19,17,23,Clear,High,Auto,6,1
+823,Hadapsar,FC Road,21.42,56,70,Rainy,Medium,Bike,14,1
+824,Hadapsar,Pimpri,16.05,40,46,Clear,High,Auto,6,1
+825,Hadapsar,Swargate,24.64,77,99,Rainy,Medium,Bike,22,1
+826,Kothrud,Kharadi,21.49,69,75,Cloudy,Medium,Bike,6,1
+827,Kothrud,Camp,3.51,12,12,Clear,Low,Auto,0,0
+828,Koregaon Park,Magarpatta,5.36,14,14,Clear,Low,Bike,0,0
+829,Viman Nagar,Pimpri,10.95,36,42,Clear,Medium,Auto,6,1
+830,Viman Nagar,Magarpatta,13.7,42,47,Foggy,Low,Auto,5,0
+831,Hadapsar,Wakad,20.79,55,61,Rainy,Low,Bike,6,1
+832,Shivajinagar,FC Road,13.65,42,53,Clear,High,Bike,11,1
+833,Shivajinagar,Magarpatta,7.24,18,22,Rainy,Low,Bike,4,0
+834,Hinjewadi,Swargate,3.65,9,10,Rainy,Low,Auto,1,0
+835,Kothrud,Magarpatta,10.67,32,40,Foggy,Medium,Auto,8,1
+836,Kothrud,FC Road,6.81,21,24,Cloudy,High,Auto,3,0
+837,Baner,Pimpri,15.93,42,47,Foggy,Low,Auto,5,0
+838,Viman Nagar,Kharadi,19.44,64,80,Clear,High,Auto,16,1
+839,Koregaon Park,FC Road,11.23,35,39,Foggy,Low,Bike,4,0
+840,Koregaon Park,FC Road,15.91,44,50,Cloudy,High,Auto,6,1
+841,Kothrud,Pimpri,10.1,33,41,Rainy,Medium,Bike,8,1
+842,Kothrud,Pimpri,9.92,24,28,Clear,High,Auto,4,0
+843,Koregaon Park,Pimpri,10.07,27,29,Foggy,Low,Auto,2,0
+844,Koregaon Park,Swargate,5.26,14,18,Clear,High,Auto,4,0
+845,Viman Nagar,FC Road,20.89,56,59,Foggy,Low,Auto,3,0
+846,Shivajinagar,Wakad,5.62,16,19,Cloudy,High,Auto,3,0
+847,Hinjewadi,FC Road,3.39,11,13,Clear,High,Auto,2,0
+848,Baner,Wakad,3.81,11,14,Clear,High,Auto,3,0
+849,Hinjewadi,Wakad,5.09,16,19,Cloudy,High,Auto,3,0
+850,Shivajinagar,Wakad,4.75,15,16,Clear,Medium,Auto,1,0
+851,Viman Nagar,Wakad,21.67,75,75,Cloudy,Low,Bike,0,0
+852,Hinjewadi,Swargate,4.05,10,10,Cloudy,Low,Auto,0,0
+853,Kothrud,Swargate,4.94,15,16,Clear,Medium,Bike,1,0
+854,Baner,Magarpatta,5.44,18,18,Cloudy,Low,Auto,0,0
+855,Hadapsar,Kharadi,20.42,58,82,Rainy,High,Bike,24,1
+856,Shivajinagar,Pimpri,6.26,19,22,Foggy,Medium,Bike,3,0
+857,Viman Nagar,Camp,13.78,38,49,Foggy,High,Bike,11,1
+858,Hadapsar,Magarpatta,10.77,35,39,Rainy,Low,Bike,4,0
+859,Viman Nagar,Magarpatta,7.67,24,28,Foggy,Medium,Bike,4,0
+860,Baner,Kharadi,19.76,59,67,Cloudy,Medium,Auto,8,1
+861,Baner,Kharadi,5.32,13,16,Foggy,Medium,Auto,3,0
+862,Baner,Wakad,7.13,19,19,Cloudy,Low,Bike,0,0
+863,Kothrud,Wakad,22.28,72,72,Clear,Low,Auto,0,0
+864,Kothrud,FC Road,3.63,11,11,Cloudy,Medium,Auto,0,0
+865,Koregaon Park,Magarpatta,10.8,29,32,Foggy,Medium,Auto,3,0
+866,Hinjewadi,Magarpatta,17.27,55,66,Rainy,Medium,Auto,11,1
+867,Shivajinagar,Kharadi,16.36,49,49,Clear,Low,Bike,0,0
+868,Hinjewadi,Swargate,5.53,18,20,Cloudy,High,Bike,2,0
+869,Hinjewadi,FC Road,7.98,24,31,Foggy,High,Auto,7,1
+870,Baner,Camp,8.9,24,24,Cloudy,Low,Auto,0,0
+871,Hadapsar,Kharadi,9.34,23,26,Foggy,Low,Auto,3,0
+872,Hadapsar,Swargate,6.75,21,26,Rainy,Low,Auto,5,0
+873,Kothrud,Magarpatta,17.65,51,65,Rainy,Low,Auto,14,1
+874,Kothrud,Camp,19.73,49,58,Foggy,Medium,Bike,9,1
+875,Hinjewadi,Magarpatta,21.02,64,90,Rainy,Medium,Bike,26,1
+876,Hinjewadi,FC Road,20.69,58,66,Cloudy,Medium,Auto,8,1
+877,Shivajinagar,FC Road,13.09,43,45,Cloudy,Medium,Auto,2,0
+878,Hadapsar,Kharadi,19.02,47,56,Rainy,Medium,Bike,9,1
+879,Koregaon Park,Camp,18.31,53,53,Clear,Low,Bike,0,0
+880,Viman Nagar,Camp,5.37,14,18,Foggy,High,Bike,4,0
+881,Shivajinagar,Wakad,15.96,54,57,Cloudy,Medium,Bike,3,0
+882,Koregaon Park,Camp,10.55,32,39,Foggy,Medium,Auto,7,1
+883,Viman Nagar,Camp,6.24,19,23,Cloudy,High,Bike,4,0
+884,Shivajinagar,Magarpatta,20.6,51,64,Rainy,Low,Auto,13,1
+885,Hinjewadi,Magarpatta,13.74,34,36,Clear,Medium,Bike,2,0
+886,Shivajinagar,FC Road,20.28,60,87,Rainy,High,Bike,27,1
+887,Hadapsar,Swargate,12.51,42,54,Rainy,Medium,Bike,12,1
+888,Baner,Camp,17.01,49,49,Cloudy,Low,Auto,0,0
+889,Koregaon Park,FC Road,6.81,19,24,Rainy,Medium,Bike,5,0
+890,Kothrud,FC Road,9.71,27,37,Foggy,High,Bike,10,1
+891,Viman Nagar,Magarpatta,6.05,17,18,Cloudy,Medium,Auto,1,0
+892,Viman Nagar,Wakad,24.15,71,83,Clear,High,Auto,12,1
+893,Kothrud,Kharadi,22.95,75,97,Cloudy,High,Bike,22,1
+894,Koregaon Park,FC Road,4.18,13,14,Foggy,Low,Bike,1,0
+895,Baner,Pimpri,14.4,48,48,Clear,Low,Auto,0,0
+896,Baner,Camp,5.36,16,19,Foggy,Medium,Auto,3,0
+897,Koregaon Park,Camp,14.24,45,71,Rainy,High,Bike,26,1
+898,Kothrud,Swargate,22.69,71,71,Cloudy,Low,Auto,0,0
+899,Hadapsar,Magarpatta,20.72,64,64,Clear,Low,Bike,0,0
+900,Hinjewadi,Swargate,16.28,42,47,Rainy,Low,Bike,5,0
+901,Hinjewadi,Pimpri,14.13,40,40,Cloudy,Low,Auto,0,0
+902,Viman Nagar,Swargate,21.05,70,95,Cloudy,High,Auto,25,1
+903,Koregaon Park,Magarpatta,12.51,39,44,Rainy,Low,Bike,5,0
+904,Hadapsar,Camp,15.03,44,52,Cloudy,Medium,Bike,8,1
+905,Viman Nagar,FC Road,17.69,51,63,Clear,High,Auto,12,1
+906,Viman Nagar,Swargate,3.62,10,13,Foggy,High,Bike,3,0
+907,Hadapsar,Camp,16.64,42,57,Rainy,Medium,Auto,15,1
+908,Hinjewadi,Swargate,10.87,36,56,Rainy,High,Auto,20,1
+909,Koregaon Park,Magarpatta,6.84,18,23,Cloudy,High,Auto,5,0
+910,Baner,Swargate,9.12,29,37,Foggy,Medium,Bike,8,1
+911,Viman Nagar,Wakad,16.33,43,56,Cloudy,High,Bike,13,1
+912,Koregaon Park,Kharadi,10.66,33,34,Clear,Medium,Bike,1,0
+913,Hadapsar,Swargate,8.1,25,32,Foggy,Medium,Auto,7,1
+914,Baner,Camp,20.5,53,60,Foggy,Low,Auto,7,1
+915,Hinjewadi,Kharadi,8.51,21,28,Clear,High,Auto,7,1
+916,Koregaon Park,Camp,21.49,73,80,Clear,Medium,Auto,7,1
+917,Hadapsar,Kharadi,15.24,41,49,Foggy,Medium,Auto,8,1
+918,Viman Nagar,Pimpri,14.63,48,48,Clear,Low,Bike,0,0
+919,Kothrud,Magarpatta,20.82,70,85,Foggy,Medium,Bike,15,1
+920,Hadapsar,Camp,14.62,39,42,Foggy,Low,Auto,3,0
+921,Koregaon Park,Pimpri,6.03,15,17,Foggy,Medium,Bike,2,0
+922,Koregaon Park,FC Road,5.22,15,15,Cloudy,Low,Bike,0,0
+923,Kothrud,Pimpri,23.69,81,96,Foggy,Medium,Auto,15,1
+924,Shivajinagar,Magarpatta,14.76,40,52,Cloudy,High,Auto,12,1
+925,Koregaon Park,Camp,22.62,69,75,Clear,Medium,Bike,6,1
+926,Shivajinagar,Swargate,10.36,33,42,Rainy,Low,Auto,9,1
+927,Hadapsar,Magarpatta,8.18,21,29,Clear,High,Auto,8,1
+928,Viman Nagar,Kharadi,19.26,66,83,Foggy,High,Bike,17,1
+929,Hinjewadi,Wakad,14.17,44,57,Foggy,Medium,Auto,13,1
+930,Kothrud,Magarpatta,23.49,59,65,Foggy,Low,Bike,6,1
+931,Hinjewadi,Wakad,19.84,63,71,Foggy,Medium,Bike,8,1
+932,Koregaon Park,FC Road,10.74,30,33,Rainy,Low,Bike,3,0
+933,Hinjewadi,Swargate,12.09,39,53,Clear,High,Bike,14,1
+934,Kothrud,Pimpri,4.25,10,12,Rainy,Medium,Auto,2,0
+935,Hadapsar,Swargate,24.96,65,78,Foggy,Medium,Bike,13,1
+936,Koregaon Park,Swargate,13.89,44,63,Rainy,Medium,Auto,19,1
+937,Baner,Kharadi,9.44,29,38,Cloudy,High,Auto,9,1
+938,Koregaon Park,Magarpatta,4.19,14,18,Foggy,High,Auto,4,0
+939,Baner,Kharadi,8.07,26,26,Clear,Low,Auto,0,0
+940,Hadapsar,Pimpri,20.33,51,58,Foggy,Low,Auto,7,1
+941,Hinjewadi,Wakad,21.4,59,83,Foggy,High,Auto,24,1
+942,Shivajinagar,Pimpri,16.41,49,55,Foggy,Medium,Auto,6,1
+943,Kothrud,Camp,12.48,31,36,Clear,Medium,Auto,5,0
+944,Koregaon Park,Pimpri,22.65,77,105,Rainy,Medium,Bike,28,1
+945,Viman Nagar,Pimpri,12.41,40,51,Clear,High,Bike,11,1
+946,Hadapsar,Camp,9.32,32,44,Foggy,High,Auto,12,1
+947,Koregaon Park,FC Road,6.58,18,27,Rainy,High,Bike,9,1
+948,Hadapsar,FC Road,4.88,13,16,Cloudy,High,Auto,3,0
+949,Hinjewadi,Kharadi,9.03,25,27,Clear,Medium,Bike,2,0
+950,Hadapsar,FC Road,21.39,71,86,Foggy,Medium,Bike,15,1
+951,Shivajinagar,Wakad,17.03,52,56,Clear,Medium,Bike,4,0
+952,Koregaon Park,Kharadi,9.91,25,25,Cloudy,Low,Auto,0,0
+953,Shivajinagar,Pimpri,13.89,37,42,Rainy,Low,Bike,5,0
+954,Hadapsar,Magarpatta,7.05,21,23,Cloudy,Medium,Bike,2,0
+955,Kothrud,Magarpatta,23.94,83,93,Clear,Medium,Auto,10,1
+956,Hinjewadi,Kharadi,8.16,21,28,Foggy,High,Bike,7,1
+957,Shivajinagar,Kharadi,11.17,37,43,Clear,Medium,Auto,6,1
+958,Kothrud,Magarpatta,10.18,33,41,Foggy,Medium,Auto,8,1
+959,Koregaon Park,Magarpatta,6.53,16,16,Clear,Low,Bike,0,0
+960,Koregaon Park,Swargate,20.78,62,77,Cloudy,High,Bike,15,1
+961,Koregaon Park,Magarpatta,17.46,46,63,Clear,High,Bike,17,1
+962,Kothrud,Kharadi,14.08,43,62,Foggy,High,Bike,19,1
+963,Hinjewadi,Kharadi,13.39,40,43,Cloudy,Medium,Auto,3,0
+964,Koregaon Park,FC Road,23.04,65,90,Rainy,Medium,Auto,25,1
+965,Hadapsar,Swargate,12.79,44,48,Cloudy,Medium,Bike,4,0
+966,Koregaon Park,Magarpatta,23.12,72,107,Rainy,High,Auto,35,1
+967,Baner,Pimpri,24.71,84,93,Foggy,Low,Bike,9,1
+968,Baner,FC Road,10.51,27,33,Foggy,Medium,Bike,6,1
+969,Baner,Swargate,22.8,76,89,Rainy,Low,Bike,13,1
+970,Baner,Kharadi,18.65,55,69,Rainy,Low,Bike,14,1
+971,Hinjewadi,Camp,6.67,17,22,Foggy,High,Auto,5,0
+972,Koregaon Park,Swargate,18.66,48,50,Clear,Medium,Bike,2,0
+973,Shivajinagar,Wakad,23.03,72,105,Foggy,High,Auto,33,1
+974,Hadapsar,Swargate,18.92,58,79,Clear,High,Bike,21,1
+975,Koregaon Park,Kharadi,11.14,35,37,Cloudy,Medium,Auto,2,0
+976,Hadapsar,Kharadi,9.14,29,29,Cloudy,Low,Auto,0,0
+977,Shivajinagar,Magarpatta,15.41,52,68,Foggy,High,Auto,16,1
+978,Kothrud,Swargate,3.92,13,19,Rainy,High,Auto,6,1
+979,Koregaon Park,FC Road,5.19,14,14,Cloudy,Low,Auto,0,0
+980,Viman Nagar,Wakad,7.92,21,24,Clear,Medium,Bike,3,0
+981,Kothrud,Magarpatta,7.55,25,25,Clear,Low,Bike,0,0
+982,Koregaon Park,Kharadi,20.58,51,51,Cloudy,Low,Bike,0,0
+983,Shivajinagar,Kharadi,12.38,36,41,Foggy,Low,Auto,5,0
+984,Hadapsar,Camp,23.22,60,67,Foggy,Medium,Auto,7,1
+985,Shivajinagar,Camp,17.71,61,71,Rainy,Low,Bike,10,1
+986,Koregaon Park,FC Road,9.07,28,38,Clear,High,Auto,10,1
+987,Hinjewadi,Wakad,5.21,16,21,Cloudy,High,Bike,5,0
+988,Hadapsar,Pimpri,22.31,56,66,Clear,High,Bike,10,1
+989,Viman Nagar,Pimpri,23.75,75,89,Foggy,Medium,Bike,14,1
+990,Viman Nagar,FC Road,5.9,18,21,Rainy,Low,Bike,3,0
+991,Viman Nagar,Kharadi,16.45,52,57,Foggy,Low,Auto,5,0
+992,Hadapsar,Kharadi,8.16,23,37,Rainy,High,Auto,14,1
+993,Hadapsar,Wakad,13.78,43,52,Cloudy,High,Auto,9,1
+994,Kothrud,Magarpatta,24.18,82,99,Foggy,Medium,Auto,17,1
+995,Hinjewadi,Swargate,13.22,37,37,Cloudy,Low,Auto,0,0
+996,Hadapsar,Swargate,20.02,59,66,Foggy,Medium,Bike,7,1
+997,Kothrud,Pimpri,20.22,51,56,Cloudy,Medium,Auto,5,0
+998,Baner,Wakad,12.35,34,34,Cloudy,Low,Auto,0,0
+999,Hadapsar,Swargate,10.48,34,41,Foggy,Medium,Auto,7,1
+1000,Koregaon Park,Swargate,20.15,52,67,Cloudy,High,Bike,15,1
+1001,Hinjewadi,Camp,3.46,9,12,Cloudy,High,Auto,3,0
+1002,Koregaon Park,Magarpatta,17.41,52,70,Rainy,Medium,Bike,18,1
+1003,Hadapsar,Swargate,9.38,24,25,Cloudy,Medium,Auto,1,0
+1004,Hadapsar,Swargate,23.68,60,60,Clear,Low,Auto,0,0
+1005,Baner,Wakad,3.93,10,11,Rainy,Low,Bike,1,0
+1006,Hadapsar,Magarpatta,20.89,60,77,Rainy,Medium,Auto,17,1
+1007,Koregaon Park,Camp,18.48,59,59,Clear,Low,Bike,0,0
+1008,Hinjewadi,Camp,15.94,46,57,Cloudy,High,Auto,11,1
+1009,Hadapsar,Magarpatta,9.65,28,28,Cloudy,Low,Auto,0,0
+1010,Viman Nagar,FC Road,12.45,33,36,Cloudy,Medium,Auto,3,0
+1011,Hadapsar,Kharadi,14.15,40,51,Foggy,Medium,Auto,11,1
+1012,Viman Nagar,Swargate,15.71,39,42,Foggy,Low,Auto,3,0
+1013,Hinjewadi,Camp,9.83,25,32,Clear,High,Bike,7,1
+1014,Kothrud,Pimpri,23.73,73,89,Rainy,Low,Auto,16,1
+1015,Viman Nagar,Kharadi,18.91,57,57,Clear,Low,Auto,0,0
+1016,Shivajinagar,Wakad,9.85,27,27,Clear,Low,Auto,0,0
+1017,Hadapsar,Kharadi,16.17,54,69,Rainy,Medium,Auto,15,1
+1018,Hadapsar,Swargate,10.08,32,40,Clear,High,Bike,8,1
+1019,Hinjewadi,Wakad,5.8,14,16,Clear,High,Bike,2,0
+1020,Baner,Magarpatta,3.86,11,12,Foggy,Low,Bike,1,0
+1021,Koregaon Park,Wakad,11.79,32,36,Cloudy,Medium,Auto,4,0
+1022,Koregaon Park,FC Road,15.4,41,52,Rainy,Medium,Auto,11,1
+1023,Viman Nagar,Swargate,23.6,80,123,Rainy,High,Bike,43,1
+1024,Hinjewadi,FC Road,12.16,32,32,Clear,Low,Auto,0,0
+1025,Hadapsar,Swargate,7.38,19,20,Cloudy,Medium,Bike,1,0
+1026,Viman Nagar,Kharadi,6.44,18,28,Rainy,High,Auto,10,1
+1027,Shivajinagar,FC Road,21.06,70,91,Cloudy,High,Auto,21,1
+1028,Viman Nagar,FC Road,15.34,48,48,Clear,Low,Bike,0,0
+1029,Hinjewadi,Camp,7.76,20,26,Clear,High,Bike,6,1
+1030,Koregaon Park,Camp,19.85,56,67,Cloudy,High,Auto,11,1
+1031,Hinjewadi,Pimpri,8.1,22,32,Rainy,High,Bike,10,1
+1032,Shivajinagar,Magarpatta,22.71,57,79,Foggy,High,Auto,22,1
+1033,Koregaon Park,Pimpri,5.58,17,21,Foggy,Medium,Auto,4,0
+1034,Shivajinagar,Kharadi,4.72,14,17,Rainy,Low,Auto,3,0
+1035,Baner,Wakad,15.33,45,51,Clear,Medium,Auto,6,1
+1036,Kothrud,Magarpatta,22.06,74,89,Cloudy,High,Auto,15,1
+1037,Koregaon Park,Swargate,11.41,30,37,Clear,High,Bike,7,1
+1038,Koregaon Park,Swargate,3.12,8,8,Cloudy,Low,Auto,0,0
+1039,Koregaon Park,Magarpatta,16.35,41,48,Foggy,Medium,Auto,7,1
+1040,Shivajinagar,FC Road,16.76,58,63,Foggy,Low,Auto,5,0
+1041,Viman Nagar,Camp,22.25,72,72,Clear,Low,Auto,0,0
+1042,Hinjewadi,Kharadi,22.67,60,86,Rainy,High,Bike,26,1
+1043,Hinjewadi,Magarpatta,12.75,40,47,Clear,Medium,Auto,7,1
+1044,Kothrud,Camp,16.51,41,56,Cloudy,High,Bike,15,1
+1045,Koregaon Park,Camp,23.77,71,104,Foggy,High,Auto,33,1
+1046,Hinjewadi,Swargate,21.15,63,75,Cloudy,High,Bike,12,1
+1047,Hinjewadi,FC Road,16.39,52,68,Rainy,Medium,Bike,16,1
+1048,Hinjewadi,FC Road,13.26,44,46,Foggy,Low,Bike,2,0
+1049,Hinjewadi,Swargate,19.05,51,68,Clear,High,Bike,17,1
+1050,Kothrud,Camp,11.24,29,46,Rainy,High,Auto,17,1
+1051,Baner,Swargate,19.44,62,71,Clear,Medium,Auto,9,1
+1052,Kothrud,FC Road,6.09,17,21,Rainy,Low,Auto,4,0
+1053,Kothrud,FC Road,8.71,25,27,Foggy,Low,Auto,2,0
+1054,Shivajinagar,Pimpri,17.12,50,80,Rainy,High,Bike,30,1
+1055,Kothrud,Kharadi,15.51,54,58,Cloudy,Medium,Auto,4,0
+1056,Hadapsar,Kharadi,15.14,49,53,Clear,Medium,Bike,4,0
+1057,Viman Nagar,FC Road,3.69,9,12,Rainy,High,Auto,3,0
+1058,Shivajinagar,Kharadi,11.31,34,34,Cloudy,Low,Bike,0,0
+1059,Hadapsar,FC Road,22.13,55,68,Foggy,Medium,Auto,13,1
+1060,Kothrud,FC Road,9.74,28,28,Clear,Low,Auto,0,0
+1061,Baner,Kharadi,13.04,40,50,Foggy,Medium,Auto,10,1
+1062,Shivajinagar,Kharadi,10.43,33,38,Clear,Medium,Bike,5,0
+1063,Koregaon Park,Magarpatta,12.26,40,50,Foggy,High,Bike,10,1
+1064,Shivajinagar,Kharadi,24.24,83,102,Rainy,Low,Bike,19,1
+1065,Baner,Magarpatta,24.35,68,68,Cloudy,Low,Auto,0,0
+1066,Viman Nagar,Swargate,13.13,41,47,Rainy,Low,Auto,6,1
+1067,Kothrud,Swargate,21.87,64,101,Rainy,High,Bike,37,1
+1068,Shivajinagar,Magarpatta,13.5,38,49,Foggy,Medium,Bike,11,1
+1069,Baner,Wakad,18.54,60,64,Foggy,Low,Bike,4,0
+1070,Kothrud,Wakad,20.01,67,91,Foggy,High,Auto,24,1
+1071,Hadapsar,Camp,24.34,61,86,Rainy,High,Bike,25,1
+1072,Baner,Magarpatta,16.43,53,63,Rainy,Low,Bike,10,1
+1073,Hinjewadi,Swargate,9.64,24,29,Rainy,Medium,Auto,5,0
+1074,Hadapsar,Pimpri,13.57,37,48,Rainy,Medium,Bike,11,1
+1075,Hinjewadi,Wakad,20.74,59,79,Clear,High,Auto,20,1
+1076,Hinjewadi,Swargate,10.02,30,38,Foggy,Medium,Bike,8,1
+1077,Viman Nagar,Wakad,19.97,55,61,Clear,Medium,Auto,6,1
+1078,Baner,Wakad,18.66,62,74,Clear,Medium,Bike,12,1
+1079,Koregaon Park,Pimpri,11.44,36,36,Clear,Low,Auto,0,0
+1080,Hadapsar,Kharadi,8.67,26,32,Foggy,High,Auto,6,1
+1081,Hinjewadi,Pimpri,13.77,39,49,Cloudy,High,Auto,10,1
+1082,Hadapsar,FC Road,19.87,50,60,Rainy,Medium,Auto,10,1
+1083,Shivajinagar,FC Road,16.99,52,56,Clear,Medium,Auto,4,0
+1084,Hinjewadi,Kharadi,5.08,16,23,Foggy,High,Auto,7,1
+1085,Viman Nagar,Camp,16.58,56,70,Foggy,High,Bike,14,1
+1086,Kothrud,Kharadi,24.49,76,82,Foggy,Low,Bike,6,1
+1087,Hadapsar,Camp,9.64,27,27,Cloudy,Low,Bike,0,0
+1088,Baner,Wakad,24.23,79,103,Cloudy,High,Auto,24,1
+1089,Koregaon Park,Pimpri,20.46,65,65,Cloudy,Low,Auto,0,0
+1090,Kothrud,Pimpri,23.58,65,89,Rainy,High,Auto,24,1
+1091,Viman Nagar,Swargate,17.92,49,68,Rainy,Medium,Bike,19,1
+1092,Shivajinagar,FC Road,13.17,43,51,Cloudy,High,Bike,8,1
+1093,Hinjewadi,Camp,10.14,25,30,Foggy,Medium,Auto,5,0
+1094,Viman Nagar,Wakad,23.46,58,68,Cloudy,Medium,Auto,10,1
+1095,Kothrud,Wakad,21.8,65,85,Rainy,High,Auto,20,1
+1096,Baner,Kharadi,24.29,76,91,Cloudy,High,Bike,15,1
+1097,Koregaon Park,FC Road,9.69,31,36,Foggy,Medium,Bike,5,0
+1098,Koregaon Park,FC Road,15.43,44,44,Cloudy,Low,Auto,0,0
+1099,Kothrud,Wakad,23.27,61,76,Clear,High,Bike,15,1
+1100,Kothrud,Magarpatta,15.56,41,44,Foggy,Low,Auto,3,0
+1101,Kothrud,Wakad,22.81,63,70,Clear,Medium,Auto,7,1
+1102,Koregaon Park,Wakad,7.95,23,24,Cloudy,Medium,Auto,1,0
+1103,Baner,Swargate,11.8,29,35,Foggy,Medium,Bike,6,1
+1104,Koregaon Park,Camp,12.2,35,35,Clear,Low,Bike,0,0
+1105,Kothrud,Kharadi,16.64,58,75,Foggy,High,Bike,17,1
+1106,Koregaon Park,Camp,13.38,34,38,Clear,Medium,Auto,4,0
+1107,Baner,Swargate,21.71,57,77,Rainy,Medium,Bike,20,1
+1108,Kothrud,FC Road,5.92,15,17,Rainy,Low,Auto,2,0
+1109,Hadapsar,Kharadi,12.76,34,38,Foggy,Low,Bike,4,0
+1110,Baner,FC Road,22.19,75,78,Foggy,Low,Bike,3,0
+1111,Hinjewadi,Camp,17.89,60,78,Foggy,Medium,Bike,18,1
+1112,Hadapsar,Kharadi,5.66,18,22,Clear,High,Auto,4,0
+1113,Hadapsar,Magarpatta,9.45,27,33,Clear,High,Auto,6,1
+1114,Koregaon Park,Camp,17.29,50,50,Clear,Low,Bike,0,0
+1115,Baner,FC Road,19.67,60,70,Rainy,Low,Auto,10,1
+1116,Shivajinagar,Swargate,23.09,76,76,Cloudy,Low,Bike,0,0
+1117,Shivajinagar,Camp,18.26,54,76,Foggy,High,Bike,22,1
+1118,Hadapsar,Wakad,10.27,30,34,Cloudy,Medium,Bike,4,0
+1119,Kothrud,Kharadi,9.35,25,27,Cloudy,Medium,Auto,2,0
+1120,Hadapsar,Swargate,15.49,43,56,Foggy,High,Auto,13,1
+1121,Kothrud,Swargate,16.36,54,75,Rainy,Medium,Bike,21,1
+1122,Kothrud,Kharadi,3.27,9,12,Foggy,High,Auto,3,0
+1123,Shivajinagar,Camp,6.43,21,24,Cloudy,Medium,Auto,3,0
+1124,Viman Nagar,Camp,6.72,20,21,Foggy,Low,Auto,1,0
+1125,Hinjewadi,FC Road,7.95,21,21,Cloudy,Low,Bike,0,0
+1126,Hadapsar,Swargate,10.84,32,42,Clear,High,Bike,10,1
+1127,Shivajinagar,Camp,3.72,11,12,Clear,Medium,Auto,1,0
+1128,Koregaon Park,Pimpri,19.31,65,69,Foggy,Low,Bike,4,0
+1129,Baner,Camp,7.02,24,27,Rainy,Low,Auto,3,0
+1130,Koregaon Park,FC Road,15.14,39,39,Clear,Low,Bike,0,0
+1131,Koregaon Park,FC Road,4.34,11,14,Foggy,High,Auto,3,0
+1132,Hinjewadi,FC Road,20.38,52,55,Clear,Medium,Auto,3,0
+1133,Kothrud,Magarpatta,14.93,40,45,Cloudy,Medium,Bike,5,0
+1134,Baner,Magarpatta,18.84,55,85,Rainy,High,Auto,30,1
+1135,Viman Nagar,Kharadi,8.96,28,35,Foggy,Medium,Auto,7,1
+1136,Baner,Kharadi,8.48,23,27,Cloudy,High,Auto,4,0
+1137,Baner,Swargate,13.73,38,47,Foggy,High,Auto,9,1
+1138,Viman Nagar,Camp,9.7,33,35,Cloudy,Medium,Bike,2,0
+1139,Hinjewadi,Pimpri,8.1,22,23,Cloudy,Medium,Auto,1,0
+1140,Shivajinagar,Kharadi,7.63,24,34,Rainy,Medium,Bike,10,1
+1141,Baner,Swargate,16.42,43,61,Foggy,High,Auto,18,1
+1142,Shivajinagar,Wakad,23.56,78,99,Rainy,Medium,Auto,21,1
+1143,Hadapsar,FC Road,12.89,37,46,Foggy,Medium,Bike,9,1
+1144,Viman Nagar,FC Road,17.21,45,52,Cloudy,Medium,Bike,7,1
+1145,Kothrud,Swargate,17.57,48,53,Clear,Medium,Auto,5,0
+1146,Viman Nagar,FC Road,15.28,49,51,Foggy,Low,Auto,2,0
+1147,Kothrud,Swargate,10.16,30,43,Foggy,High,Bike,13,1
+1148,Hadapsar,Wakad,8.5,29,37,Foggy,High,Bike,8,1
+1149,Shivajinagar,Kharadi,11.13,38,43,Foggy,Low,Bike,5,0
+1150,Hinjewadi,FC Road,24.5,79,95,Rainy,Low,Auto,16,1
+1151,Koregaon Park,Magarpatta,12.64,35,46,Cloudy,High,Auto,11,1
+1152,Kothrud,Pimpri,19.94,67,92,Cloudy,High,Auto,25,1
+1153,Viman Nagar,Camp,22.46,60,74,Rainy,Medium,Auto,14,1
+1154,Hadapsar,FC Road,8.62,27,33,Rainy,Low,Bike,6,1
+1155,Viman Nagar,Wakad,20.73,68,78,Clear,High,Auto,10,1
+1156,Viman Nagar,Magarpatta,24.12,81,101,Foggy,Medium,Auto,20,1
+1157,Hadapsar,Magarpatta,15.44,53,64,Rainy,Low,Bike,11,1
+1158,Viman Nagar,Kharadi,17.3,46,50,Foggy,Low,Auto,4,0
+1159,Hadapsar,Swargate,17.31,44,56,Cloudy,High,Auto,12,1
+1160,Hadapsar,Camp,21.04,61,64,Foggy,Low,Auto,3,0
+1161,Baner,Wakad,3.42,9,12,Rainy,Medium,Auto,3,0
+1162,Baner,FC Road,14.71,46,46,Cloudy,Low,Bike,0,0
+1163,Kothrud,Pimpri,6.26,17,17,Clear,Low,Bike,0,0
+1164,Baner,Swargate,14.88,51,58,Cloudy,Medium,Bike,7,1
+1165,Kothrud,FC Road,6.59,23,25,Rainy,Low,Auto,2,0
+1166,Viman Nagar,Magarpatta,21.35,61,75,Rainy,Medium,Auto,14,1
+1167,Kothrud,Swargate,19.96,61,61,Clear,Low,Bike,0,0
+1168,Koregaon Park,Kharadi,18.94,49,49,Clear,Low,Auto,0,0
+1169,Hadapsar,Kharadi,10.88,38,55,Rainy,Medium,Bike,17,1
+1170,Shivajinagar,Wakad,8.62,22,24,Clear,Medium,Bike,2,0
+1171,Viman Nagar,Wakad,24.15,62,69,Cloudy,Medium,Bike,7,1
+1172,Baner,Camp,9.62,33,34,Foggy,Low,Auto,1,0
+1173,Shivajinagar,Camp,17.24,48,58,Rainy,Low,Bike,10,1
+1174,Kothrud,Kharadi,6.43,20,20,Clear,Low,Bike,0,0
+1175,Baner,Camp,17.54,50,68,Rainy,Medium,Auto,18,1
+1176,Kothrud,Camp,20.81,65,68,Clear,Medium,Bike,3,0
+1177,Kothrud,FC Road,11.88,34,39,Cloudy,Medium,Bike,5,0
+1178,Shivajinagar,Magarpatta,22.55,57,62,Foggy,Low,Bike,5,0
+1179,Baner,Kharadi,18.9,50,50,Clear,Low,Auto,0,0
+1180,Kothrud,Magarpatta,12.24,31,39,Foggy,Medium,Auto,8,1
+1181,Kothrud,Pimpri,16.27,51,64,Foggy,Medium,Auto,13,1
+1182,Shivajinagar,Camp,14.88,51,64,Clear,High,Auto,13,1
+1183,Baner,Pimpri,15.57,40,52,Rainy,High,Bike,12,1
+1184,Hinjewadi,Camp,11.88,40,46,Rainy,Low,Bike,6,1
+1185,Hadapsar,Camp,9.62,30,32,Cloudy,Medium,Bike,2,0
+1186,Shivajinagar,Camp,6.19,20,22,Foggy,Low,Bike,2,0
+1187,Kothrud,Magarpatta,6.14,15,17,Rainy,Low,Auto,2,0
+1188,Koregaon Park,Wakad,13.64,38,56,Foggy,High,Auto,18,1
+1189,Shivajinagar,Kharadi,12.68,41,57,Cloudy,High,Auto,16,1
+1190,Kothrud,FC Road,10.5,35,49,Foggy,High,Bike,14,1
+1191,Koregaon Park,FC Road,4.39,12,14,Clear,High,Bike,2,0
+1192,Viman Nagar,Pimpri,5.45,16,20,Rainy,Medium,Auto,4,0
+1193,Hinjewadi,Pimpri,24.38,65,97,Rainy,High,Bike,32,1
+1194,Hinjewadi,Swargate,19.14,54,82,Rainy,High,Bike,28,1
+1195,Kothrud,Camp,23.84,72,99,Rainy,Medium,Bike,27,1
+1196,Baner,Kharadi,7.98,27,41,Rainy,High,Auto,14,1
+1197,Viman Nagar,FC Road,11.57,34,41,Foggy,Medium,Auto,7,1
+1198,Shivajinagar,Magarpatta,4.65,14,19,Cloudy,High,Bike,5,0
+1199,Koregaon Park,Kharadi,24.1,61,76,Rainy,Medium,Bike,15,1
+1200,Baner,Swargate,11.61,30,35,Foggy,Medium,Bike,5,0
+1201,Kothrud,FC Road,6.09,17,25,Rainy,High,Bike,8,1
+1202,Baner,FC Road,3.24,8,8,Clear,Medium,Auto,0,0
+1203,Viman Nagar,FC Road,21.09,64,84,Foggy,High,Bike,20,1
+1204,Hadapsar,FC Road,22.26,76,80,Foggy,Low,Auto,4,0
+1205,Viman Nagar,Wakad,15.87,53,67,Foggy,High,Auto,14,1
+1206,Hadapsar,Kharadi,24.11,81,88,Foggy,Low,Auto,7,1
+1207,Hadapsar,Magarpatta,22.03,61,79,Cloudy,High,Auto,18,1
+1208,Shivajinagar,Wakad,17.67,48,51,Clear,Medium,Bike,3,0
+1209,Baner,Wakad,8.34,24,31,Foggy,High,Auto,7,1
+1210,Hadapsar,Wakad,15.33,51,63,Foggy,Medium,Bike,12,1
+1211,Baner,Camp,23.99,73,88,Rainy,Low,Auto,15,1
+1212,Hadapsar,Kharadi,12.28,35,45,Clear,High,Auto,10,1
+1213,Viman Nagar,Pimpri,13.14,44,49,Foggy,Low,Auto,5,0
+1214,Hinjewadi,Swargate,15.47,39,46,Clear,Medium,Auto,7,1
+1215,Baner,Magarpatta,19.04,63,69,Cloudy,Medium,Auto,6,1
+1216,Kothrud,FC Road,12.81,32,34,Cloudy,Medium,Bike,2,0
+1217,Baner,Pimpri,15.04,42,49,Cloudy,Medium,Bike,7,1
+1218,Baner,Magarpatta,10.34,32,47,Rainy,High,Auto,15,1
+1219,Hadapsar,Magarpatta,17.07,48,64,Rainy,Medium,Auto,16,1
+1220,Viman Nagar,FC Road,10.41,30,36,Rainy,Medium,Bike,6,1
+1221,Koregaon Park,FC Road,22.99,73,91,Cloudy,High,Bike,18,1
+1222,Hadapsar,Magarpatta,7.37,19,24,Foggy,High,Auto,5,0
+1223,Shivajinagar,Wakad,5.93,17,20,Cloudy,High,Bike,3,0
+1224,Kothrud,Wakad,21.17,58,58,Cloudy,Low,Bike,0,0
+1225,Viman Nagar,Swargate,21.33,74,90,Rainy,Low,Auto,16,1
+1226,Kothrud,Swargate,3.27,8,8,Foggy,Low,Auto,0,0
+1227,Koregaon Park,Kharadi,7.23,19,27,Foggy,High,Auto,8,1
+1228,Shivajinagar,Pimpri,20.64,60,74,Rainy,Medium,Auto,14,1
+1229,Hadapsar,Swargate,10.08,33,48,Rainy,High,Bike,15,1
+1230,Koregaon Park,Camp,13.47,37,57,Rainy,High,Auto,20,1
+1231,Koregaon Park,Pimpri,24.67,73,95,Clear,High,Auto,22,1
+1232,Viman Nagar,Kharadi,12.6,43,43,Clear,Low,Auto,0,0
+1233,Koregaon Park,Camp,4.27,12,17,Rainy,High,Bike,5,0
+1234,Hadapsar,FC Road,15.53,53,66,Clear,High,Auto,13,1
+1235,Baner,Swargate,24.7,67,73,Cloudy,Medium,Auto,6,1
+1236,Koregaon Park,Pimpri,22.27,76,76,Cloudy,Low,Bike,0,0
+1237,Koregaon Park,Magarpatta,18.67,53,53,Clear,Low,Bike,0,0
+1238,Koregaon Park,Wakad,19.07,61,67,Rainy,Low,Bike,6,1
+1239,Viman Nagar,Camp,5.63,14,16,Foggy,Medium,Auto,2,0
+1240,Baner,FC Road,7.03,19,20,Foggy,Low,Auto,1,0
+1241,Kothrud,FC Road,11.83,32,40,Clear,High,Auto,8,1
+1242,Hinjewadi,Kharadi,8.67,29,29,Clear,Low,Auto,0,0
+1243,Hinjewadi,Swargate,3.04,10,10,Clear,Low,Auto,0,0
+1244,Viman Nagar,FC Road,3.61,12,16,Cloudy,High,Bike,4,0
+1245,Kothrud,Camp,16.66,44,44,Cloudy,Low,Bike,0,0
+1246,Baner,Camp,23.08,71,113,Rainy,High,Auto,42,1
+1247,Kothrud,Kharadi,6.27,20,20,Clear,Low,Bike,0,0
+1248,Baner,FC Road,23.57,61,96,Rainy,High,Bike,35,1
+1249,Koregaon Park,Swargate,24.94,85,111,Foggy,Medium,Auto,26,1
+1250,Hinjewadi,FC Road,8.42,22,25,Rainy,Medium,Auto,3,0
+1251,Viman Nagar,Pimpri,21.56,68,89,Clear,High,Bike,21,1
+1252,Shivajinagar,Kharadi,15.39,49,62,Foggy,High,Bike,13,1
+1253,Baner,Swargate,9.45,29,32,Foggy,Medium,Auto,3,0
+1254,Hinjewadi,FC Road,15.35,47,60,Foggy,Medium,Auto,13,1
+1255,Koregaon Park,Pimpri,3.92,13,17,Rainy,Medium,Auto,4,0
+1256,Hinjewadi,FC Road,11.47,32,42,Clear,High,Auto,10,1
+1257,Koregaon Park,Pimpri,6.92,19,22,Clear,High,Bike,3,0
+1258,Kothrud,Swargate,18.67,48,53,Foggy,Low,Bike,5,0
+1259,Koregaon Park,Magarpatta,4.0,11,12,Clear,High,Auto,1,0
+1260,Kothrud,Camp,20.9,69,75,Foggy,Low,Bike,6,1
+1261,Baner,Wakad,3.98,10,10,Cloudy,Low,Auto,0,0
+1262,Hadapsar,Kharadi,18.62,63,76,Rainy,Medium,Auto,13,1
+1263,Baner,Wakad,11.3,37,41,Foggy,Low,Auto,4,0
+1264,Hadapsar,Camp,11.7,37,43,Rainy,Medium,Bike,6,1
+1265,Kothrud,Pimpri,13.75,36,51,Rainy,Medium,Auto,15,1
+1266,Hadapsar,Wakad,9.27,25,33,Cloudy,High,Bike,8,1
+1267,Viman Nagar,Pimpri,22.48,60,63,Foggy,Low,Bike,3,0
+1268,Hinjewadi,Wakad,13.53,35,37,Foggy,Low,Bike,2,0
+1269,Hadapsar,Pimpri,4.48,13,16,Foggy,Medium,Bike,3,0
+1270,Hadapsar,Kharadi,19.87,53,53,Cloudy,Low,Bike,0,0
+1271,Koregaon Park,Magarpatta,23.87,67,93,Rainy,Medium,Auto,26,1
+1272,Hinjewadi,Wakad,11.36,39,46,Clear,High,Bike,7,1
+1273,Kothrud,FC Road,17.48,51,58,Clear,Medium,Bike,7,1
+1274,Shivajinagar,Kharadi,6.54,19,21,Clear,Medium,Bike,2,0
+1275,Viman Nagar,Kharadi,14.75,45,45,Cloudy,Low,Auto,0,0
+1276,Hinjewadi,Swargate,22.83,72,79,Foggy,Low,Bike,7,1
+1277,Baner,Wakad,19.91,52,52,Clear,Low,Bike,0,0
+1278,Hinjewadi,Camp,21.13,62,87,Foggy,High,Auto,25,1
+1279,Hadapsar,Swargate,18.02,56,70,Foggy,Medium,Auto,14,1
+1280,Koregaon Park,FC Road,7.92,22,36,Rainy,High,Auto,14,1
+1281,Shivajinagar,Camp,3.46,11,11,Clear,Low,Auto,0,0
+1282,Viman Nagar,Camp,22.36,74,93,Rainy,Medium,Auto,19,1
+1283,Viman Nagar,Wakad,19.14,56,68,Foggy,Medium,Auto,12,1
+1284,Kothrud,Camp,14.66,40,65,Rainy,High,Bike,25,1
+1285,Baner,Kharadi,11.0,32,34,Cloudy,Medium,Auto,2,0
+1286,Kothrud,Wakad,5.39,16,18,Foggy,Medium,Bike,2,0
+1287,Kothrud,Camp,11.45,34,38,Foggy,Low,Bike,4,0
+1288,Viman Nagar,Kharadi,17.67,49,76,Rainy,High,Auto,27,1
+1289,Kothrud,Wakad,9.96,27,40,Rainy,High,Auto,13,1
+1290,Koregaon Park,Kharadi,19.18,64,74,Clear,High,Bike,10,1
+1291,Hinjewadi,Pimpri,22.13,62,62,Cloudy,Low,Auto,0,0
+1292,Kothrud,Camp,6.31,17,17,Cloudy,Low,Auto,0,0
+1293,Koregaon Park,Pimpri,12.83,36,36,Cloudy,Low,Auto,0,0
+1294,Hinjewadi,Pimpri,15.36,52,58,Rainy,Low,Auto,6,1
+1295,Koregaon Park,Wakad,6.48,19,22,Cloudy,Medium,Bike,3,0
+1296,Hadapsar,Swargate,23.0,59,70,Rainy,Low,Auto,11,1
+1297,Viman Nagar,Swargate,19.88,61,71,Foggy,Medium,Bike,10,1
+1298,Viman Nagar,Camp,15.47,52,52,Cloudy,Low,Bike,0,0
+1299,Kothrud,Swargate,16.73,53,53,Clear,Low,Bike,0,0
+1300,Hadapsar,FC Road,9.43,31,31,Cloudy,Low,Auto,0,0
+1301,Hinjewadi,Kharadi,22.6,65,65,Cloudy,Low,Auto,0,0
+1302,Kothrud,Kharadi,9.17,27,30,Foggy,Low,Auto,3,0
+1303,Hinjewadi,Camp,8.25,23,27,Foggy,Medium,Auto,4,0
+1304,Baner,Camp,13.08,33,45,Clear,High,Bike,12,1
+1305,Koregaon Park,Magarpatta,19.16,48,58,Rainy,Medium,Auto,10,1
+1306,Hadapsar,FC Road,18.33,51,70,Foggy,High,Auto,19,1
+1307,Shivajinagar,Camp,8.75,23,27,Cloudy,Medium,Bike,4,0
+1308,Hadapsar,Magarpatta,20.72,70,94,Clear,High,Bike,24,1
+1309,Baner,Pimpri,5.36,13,14,Clear,Medium,Bike,1,0
+1310,Kothrud,Pimpri,4.92,12,16,Clear,High,Auto,4,0
+1311,Koregaon Park,Magarpatta,6.44,20,22,Cloudy,Medium,Bike,2,0
+1312,Hinjewadi,Camp,6.05,20,24,Rainy,Low,Bike,4,0
+1313,Hinjewadi,Magarpatta,12.53,39,39,Clear,Low,Bike,0,0
+1314,Viman Nagar,FC Road,16.76,45,49,Foggy,Low,Bike,4,0
+1315,Hadapsar,Camp,16.02,53,71,Rainy,Medium,Bike,18,1
+1316,Shivajinagar,Swargate,22.32,68,68,Clear,Low,Bike,0,0
+1317,Kothrud,Swargate,21.67,70,85,Rainy,Low,Auto,15,1
+1318,Koregaon Park,FC Road,16.23,48,60,Rainy,Medium,Auto,12,1
+1319,Kothrud,Kharadi,3.15,10,13,Cloudy,High,Auto,3,0
+1320,Hinjewadi,Magarpatta,4.38,12,14,Clear,High,Auto,2,0
+1321,Baner,Camp,12.81,44,57,Clear,High,Auto,13,1
+1322,Shivajinagar,Camp,17.98,57,57,Cloudy,Low,Auto,0,0
+1323,Viman Nagar,FC Road,19.33,57,62,Cloudy,Medium,Auto,5,0
+1324,Hadapsar,Swargate,8.02,21,26,Cloudy,High,Auto,5,0
+1325,Viman Nagar,FC Road,23.32,78,92,Foggy,Medium,Auto,14,1
+1326,Baner,Wakad,12.23,30,30,Cloudy,Low,Auto,0,0
+1327,Baner,Camp,6.29,18,22,Rainy,Medium,Bike,4,0
+1328,Hinjewadi,Magarpatta,11.61,30,37,Rainy,Medium,Bike,7,1
+1329,Baner,Pimpri,15.09,41,51,Foggy,Medium,Auto,10,1
+1330,Viman Nagar,Camp,4.31,14,14,Cloudy,Low,Auto,0,0
+1331,Koregaon Park,FC Road,6.11,18,25,Rainy,Medium,Auto,7,1
+1332,Hadapsar,Swargate,10.45,29,40,Foggy,High,Bike,11,1
+1333,Shivajinagar,Camp,11.21,35,35,Cloudy,Low,Auto,0,0
+1334,Hinjewadi,Magarpatta,12.84,37,37,Cloudy,Low,Bike,0,0
+1335,Baner,FC Road,16.95,57,64,Cloudy,Medium,Auto,7,1
+1336,Shivajinagar,Camp,7.28,19,25,Rainy,Medium,Bike,6,1
+1337,Koregaon Park,Wakad,22.59,63,70,Foggy,Low,Bike,7,1
+1338,Hinjewadi,Kharadi,13.8,42,53,Cloudy,High,Bike,11,1
+1339,Baner,Swargate,20.41,56,56,Cloudy,Low,Bike,0,0
+1340,Viman Nagar,Swargate,7.91,19,24,Foggy,Medium,Bike,5,0
+1341,Viman Nagar,FC Road,16.3,49,65,Rainy,High,Bike,16,1
+1342,Kothrud,Kharadi,20.57,57,66,Foggy,Medium,Bike,9,1
+1343,Shivajinagar,Magarpatta,3.63,11,12,Clear,Medium,Auto,1,0
+1344,Kothrud,Wakad,16.77,51,63,Foggy,High,Auto,12,1
+1345,Shivajinagar,Swargate,18.54,54,69,Rainy,Low,Auto,15,1
+1346,Hinjewadi,Magarpatta,22.09,67,90,Rainy,Medium,Auto,23,1
+1347,Hinjewadi,Camp,12.55,35,35,Cloudy,Low,Bike,0,0
+1348,Hadapsar,FC Road,10.13,32,32,Clear,Low,Bike,0,0
+1349,Viman Nagar,Magarpatta,23.39,61,68,Rainy,Low,Bike,7,1
+1350,Shivajinagar,FC Road,10.44,30,33,Foggy,Low,Auto,3,0
+1351,Koregaon Park,Wakad,17.12,49,49,Clear,Low,Bike,0,0
+1352,Viman Nagar,Swargate,5.54,18,23,Rainy,Medium,Bike,5,0
+1353,Hinjewadi,Magarpatta,17.14,54,58,Clear,Medium,Bike,4,0
+1354,Kothrud,Swargate,24.0,63,73,Cloudy,Medium,Auto,10,1
+1355,Hadapsar,Wakad,3.42,11,12,Clear,Medium,Auto,1,0
+1356,Hinjewadi,Swargate,15.97,43,55,Foggy,High,Bike,12,1
+1357,Shivajinagar,Kharadi,22.77,60,76,Rainy,Low,Bike,16,1
+1358,Hadapsar,Kharadi,9.19,28,41,Foggy,High,Bike,13,1
+1359,Shivajinagar,FC Road,7.31,24,26,Clear,Medium,Auto,2,0
+1360,Viman Nagar,Kharadi,24.29,77,95,Rainy,Medium,Bike,18,1
+1361,Hinjewadi,Camp,23.53,63,86,Cloudy,High,Bike,23,1
+1362,Baner,FC Road,10.94,27,35,Rainy,High,Auto,8,1
+1363,Hinjewadi,Swargate,21.25,71,79,Foggy,Low,Auto,8,1
+1364,Viman Nagar,Wakad,16.24,43,55,Foggy,Medium,Auto,12,1
+1365,Kothrud,Magarpatta,16.56,56,56,Clear,Low,Bike,0,0
+1366,Shivajinagar,Magarpatta,9.68,27,35,Rainy,High,Bike,8,1
+1367,Kothrud,Wakad,19.32,55,63,Foggy,Medium,Bike,8,1
+1368,Hinjewadi,FC Road,6.12,18,18,Clear,Low,Bike,0,0
+1369,Viman Nagar,Swargate,3.32,8,8,Foggy,Low,Auto,0,0
+1370,Hadapsar,Kharadi,13.55,43,50,Rainy,Low,Bike,7,1
+1371,Viman Nagar,Magarpatta,3.82,11,14,Foggy,Medium,Bike,3,0
+1372,Hinjewadi,Camp,4.39,14,15,Cloudy,Medium,Auto,1,0
+1373,Shivajinagar,Magarpatta,17.77,61,76,Rainy,Low,Auto,15,1
+1374,Hadapsar,Magarpatta,22.22,74,94,Foggy,Medium,Bike,20,1
+1375,Shivajinagar,FC Road,4.95,14,18,Rainy,Medium,Auto,4,0
+1376,Koregaon Park,Kharadi,6.21,20,24,Foggy,Medium,Bike,4,0
+1377,Shivajinagar,Pimpri,9.43,31,38,Foggy,Medium,Auto,7,1
+1378,Shivajinagar,Swargate,10.32,29,36,Foggy,Medium,Bike,7,1
+1379,Baner,Camp,6.19,17,28,Rainy,High,Bike,11,1
+1380,Baner,Camp,11.72,38,38,Clear,Low,Bike,0,0
+1381,Koregaon Park,Magarpatta,8.6,26,31,Rainy,Low,Auto,5,0
+1382,Shivajinagar,Camp,21.4,61,76,Foggy,Medium,Bike,15,1
+1383,Hadapsar,Pimpri,24.73,67,100,Foggy,High,Bike,33,1
+1384,Kothrud,Camp,3.01,9,10,Clear,High,Auto,1,0
+1385,Hinjewadi,Camp,23.9,65,73,Cloudy,Medium,Bike,8,1
+1386,Hinjewadi,Pimpri,7.2,18,19,Clear,Medium,Bike,1,0
+1387,Baner,Camp,4.57,12,13,Foggy,Low,Auto,1,0
+1388,Hinjewadi,Camp,16.15,45,59,Rainy,Medium,Auto,14,1
+1389,Viman Nagar,Camp,16.53,42,46,Clear,Medium,Auto,4,0
+1390,Hinjewadi,FC Road,18.41,61,70,Clear,Medium,Auto,9,1
+1391,Koregaon Park,FC Road,23.88,76,87,Foggy,Low,Bike,11,1
+1392,Baner,Magarpatta,13.45,40,47,Rainy,Low,Bike,7,1
+1393,Hadapsar,FC Road,8.31,28,28,Cloudy,Low,Auto,0,0
+1394,Koregaon Park,Pimpri,18.49,54,65,Foggy,High,Bike,11,1
+1395,Baner,Camp,20.18,69,77,Clear,Medium,Bike,8,1
+1396,Hadapsar,Kharadi,11.54,39,50,Clear,High,Auto,11,1
+1397,Hadapsar,Kharadi,13.8,46,57,Rainy,Medium,Bike,11,1
+1398,Hinjewadi,Camp,6.41,21,22,Foggy,Low,Auto,1,0
+1399,Viman Nagar,Pimpri,19.38,61,65,Foggy,Low,Bike,4,0
+1400,Kothrud,FC Road,22.04,67,97,Rainy,Medium,Auto,30,1
+1401,Hinjewadi,Magarpatta,6.62,17,21,Clear,High,Auto,4,0
+1402,Baner,Camp,12.46,39,48,Cloudy,High,Bike,9,1
+1403,Hinjewadi,FC Road,12.6,40,40,Clear,Low,Bike,0,0
+1404,Shivajinagar,Camp,10.87,31,34,Rainy,Low,Bike,3,0
+1405,Hinjewadi,Kharadi,7.11,19,24,Cloudy,High,Auto,5,0
+1406,Baner,Camp,7.08,20,24,Clear,High,Bike,4,0
+1407,Shivajinagar,Swargate,19.43,56,59,Clear,Medium,Bike,3,0
+1408,Hadapsar,FC Road,15.88,39,39,Cloudy,Low,Bike,0,0
+1409,Baner,Wakad,20.63,55,63,Foggy,Medium,Auto,8,1
+1410,Koregaon Park,Camp,16.79,56,71,Rainy,Low,Bike,15,1
+1411,Kothrud,Pimpri,19.73,58,71,Rainy,Low,Bike,13,1
+1412,Viman Nagar,Pimpri,16.76,57,69,Foggy,Medium,Bike,12,1
+1413,Shivajinagar,Pimpri,11.68,31,39,Cloudy,High,Auto,8,1
+1414,Baner,Pimpri,7.94,27,32,Foggy,Medium,Bike,5,0
+1415,Viman Nagar,Pimpri,4.65,14,16,Clear,Medium,Bike,2,0
+1416,Baner,Swargate,20.0,50,62,Foggy,Medium,Auto,12,1
+1417,Shivajinagar,FC Road,21.4,66,82,Foggy,Medium,Auto,16,1
+1418,Hadapsar,Kharadi,18.3,62,91,Rainy,High,Auto,29,1
+1419,Shivajinagar,Kharadi,14.37,44,51,Cloudy,Medium,Auto,7,1
+1420,Koregaon Park,Kharadi,8.01,27,34,Rainy,Medium,Bike,7,1
+1421,Baner,FC Road,14.39,41,53,Foggy,Medium,Bike,12,1
+1422,Kothrud,Pimpri,19.94,55,66,Cloudy,High,Auto,11,1
+1423,Viman Nagar,Kharadi,14.44,37,44,Cloudy,High,Bike,7,1
+1424,Baner,Camp,21.27,57,74,Foggy,High,Auto,17,1
+1425,Shivajinagar,Kharadi,13.1,37,39,Clear,Medium,Auto,2,0
+1426,Viman Nagar,Pimpri,15.12,43,55,Rainy,Low,Auto,12,1
+1427,Viman Nagar,Kharadi,15.84,43,58,Foggy,High,Bike,15,1
+1428,Hadapsar,Wakad,16.1,47,50,Cloudy,Medium,Bike,3,0
+1429,Hinjewadi,FC Road,19.72,68,68,Clear,Low,Auto,0,0
+1430,Hinjewadi,Kharadi,14.77,38,40,Foggy,Low,Bike,2,0
+1431,Hadapsar,Kharadi,4.32,11,13,Cloudy,High,Auto,2,0
+1432,Kothrud,Swargate,16.6,50,53,Cloudy,Medium,Bike,3,0
+1433,Koregaon Park,Kharadi,9.97,27,35,Rainy,Medium,Bike,8,1
+1434,Hadapsar,Kharadi,24.53,67,72,Clear,Medium,Bike,5,0
+1435,Viman Nagar,Swargate,8.32,25,28,Rainy,Low,Auto,3,0
+1436,Kothrud,Camp,9.79,30,37,Foggy,High,Auto,7,1
+1437,Hinjewadi,Wakad,18.67,54,69,Foggy,High,Auto,15,1
+1438,Kothrud,Camp,13.81,45,51,Cloudy,High,Auto,6,1
+1439,Koregaon Park,Kharadi,11.53,33,33,Cloudy,Low,Bike,0,0
+1440,Hadapsar,Magarpatta,16.22,51,63,Rainy,Medium,Auto,12,1
+1441,Viman Nagar,FC Road,8.47,23,26,Foggy,Low,Auto,3,0
+1442,Hadapsar,Kharadi,8.37,26,29,Clear,Medium,Auto,3,0
+1443,Shivajinagar,Wakad,3.45,10,12,Foggy,Medium,Bike,2,0
+1444,Shivajinagar,FC Road,23.06,63,80,Rainy,Low,Bike,17,1
+1445,Hadapsar,Kharadi,16.18,53,55,Foggy,Low,Auto,2,0
+1446,Kothrud,Magarpatta,18.56,49,57,Clear,High,Auto,8,1
+1447,Shivajinagar,Wakad,6.28,16,17,Cloudy,Medium,Bike,1,0
+1448,Shivajinagar,Swargate,14.45,39,39,Clear,Low,Bike,0,0
+1449,Shivajinagar,Kharadi,13.35,39,49,Rainy,Low,Bike,10,1
+1450,Kothrud,Kharadi,18.68,47,47,Cloudy,Low,Bike,0,0
+1451,Koregaon Park,Magarpatta,20.14,61,77,Rainy,Medium,Bike,16,1
+1452,Baner,Magarpatta,10.16,27,29,Clear,Medium,Bike,2,0
+1453,Kothrud,Magarpatta,13.32,44,44,Cloudy,Low,Auto,0,0
+1454,Viman Nagar,Swargate,13.01,41,63,Rainy,High,Bike,22,1
+1455,Hinjewadi,Wakad,5.99,16,22,Foggy,High,Auto,6,1
+1456,Koregaon Park,Wakad,24.17,83,101,Foggy,Medium,Auto,18,1
+1457,Koregaon Park,Pimpri,13.99,46,46,Clear,Low,Auto,0,0
+1458,Baner,FC Road,5.54,18,21,Foggy,Medium,Auto,3,0
+1459,Kothrud,Pimpri,3.35,9,14,Rainy,High,Auto,5,0
+1460,Hadapsar,Swargate,17.28,48,61,Rainy,Low,Bike,13,1
+1461,Viman Nagar,FC Road,13.71,40,44,Cloudy,Medium,Bike,4,0
+1462,Viman Nagar,Magarpatta,8.4,22,27,Clear,High,Auto,5,0
+1463,Shivajinagar,Wakad,23.01,77,84,Clear,Medium,Auto,7,1
+1464,Koregaon Park,Kharadi,13.5,46,50,Clear,Medium,Auto,4,0
+1465,Shivajinagar,Kharadi,6.65,23,23,Cloudy,Low,Bike,0,0
+1466,Hinjewadi,Kharadi,7.81,23,24,Foggy,Low,Auto,1,0
+1467,Koregaon Park,Wakad,10.63,30,35,Clear,Medium,Bike,5,0
+1468,Baner,Wakad,12.53,37,51,Clear,High,Bike,14,1
+1469,Viman Nagar,FC Road,17.53,51,60,Cloudy,High,Bike,9,1
+1470,Kothrud,Magarpatta,16.57,45,45,Clear,Low,Bike,0,0
+1471,Shivajinagar,Magarpatta,23.98,64,104,Rainy,High,Auto,40,1
+1472,Viman Nagar,Kharadi,15.5,54,54,Clear,Low,Bike,0,0
+1473,Kothrud,Pimpri,3.82,12,15,Rainy,Low,Auto,3,0
+1474,Kothrud,Camp,13.86,35,41,Cloudy,Medium,Auto,6,1
+1475,Shivajinagar,Kharadi,15.29,51,65,Cloudy,High,Auto,14,1
+1476,Hadapsar,Camp,21.38,66,79,Cloudy,High,Bike,13,1
+1477,Hinjewadi,Wakad,13.63,38,52,Cloudy,High,Auto,14,1
+1478,Viman Nagar,Magarpatta,23.95,67,75,Clear,Medium,Bike,8,1
+1479,Baner,Pimpri,7.82,27,36,Rainy,Medium,Bike,9,1
+1480,Viman Nagar,Camp,11.8,36,38,Clear,Medium,Bike,2,0
+1481,Viman Nagar,Camp,4.46,12,13,Foggy,Low,Auto,1,0
+1482,Kothrud,Wakad,13.41,33,35,Clear,Medium,Auto,2,0
+1483,Viman Nagar,Wakad,15.95,46,46,Cloudy,Low,Bike,0,0
+1484,Koregaon Park,Pimpri,6.63,17,19,Foggy,Medium,Bike,2,0
+1485,Hadapsar,Magarpatta,6.3,18,19,Rainy,Low,Bike,1,0
+1486,Kothrud,Magarpatta,5.94,20,21,Cloudy,Medium,Bike,1,0
+1487,Shivajinagar,FC Road,5.2,18,18,Clear,Low,Bike,0,0
+1488,Baner,Swargate,20.37,69,78,Clear,Medium,Auto,9,1
+1489,Koregaon Park,Pimpri,14.57,48,66,Rainy,Medium,Bike,18,1
+1490,Kothrud,Camp,20.07,60,79,Rainy,Medium,Auto,19,1
+1491,Hadapsar,Swargate,18.29,60,68,Cloudy,Medium,Auto,8,1
+1492,Baner,Wakad,12.2,41,44,Cloudy,Medium,Bike,3,0
+1493,Kothrud,Camp,6.41,16,18,Clear,High,Bike,2,0
+1494,Viman Nagar,Swargate,6.29,16,18,Cloudy,Medium,Bike,2,0
+1495,Viman Nagar,Wakad,5.7,17,23,Cloudy,High,Bike,6,1
+1496,Hadapsar,Magarpatta,11.01,31,32,Clear,Medium,Bike,1,0
+1497,Baner,Pimpri,8.55,22,28,Foggy,Medium,Auto,6,1
+1498,Viman Nagar,Swargate,20.95,67,101,Foggy,High,Auto,34,1
+1499,Baner,Camp,7.05,23,23,Cloudy,Low,Auto,0,0
+1500,Hinjewadi,Wakad,22.26,63,75,Rainy,Low,Bike,12,1
